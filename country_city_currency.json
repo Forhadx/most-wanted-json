@@ -1,0 +1,2234 @@
+[
+  {
+    "country_name": "Afghanistan",
+    "currency": "AFN",
+    "cities": ["Badakhshan", "Badghis", "Baghlan", "Bamian", "Farah", "Faryab", "Ghazni", "Ghowr", "Helmand", "Herat", "Kabol", "Kapisa", "Lowgar", "Nangarhar", "Nimruz", "Kandahar", "Kondoz", "Takhar", "Vardak", "Zabol", "Paktika", "Balkh", "Jowzjan", "Samangan", "Sar-e Pol", "Konar", "Laghman", "Paktia", "Khowst", "Nurestan", "Oruzgan", "Parvan", "Daykondi", "Panjshir"]
+  },
+  {
+    "country_name": "Åland Islands",
+    "currency": "EUR",
+    "cities": []
+  },
+  {
+    "country_name": "Albania",
+    "currency": "ALL",
+    "cities": ["Berat", "Diber", "Durres", "Elbasan", "Fier", "Gjirokaster", "Korce", "Kukes", "Lezhe", "Shkoder", "Tirane", "Vlore"]
+  },
+  {
+    "country_name": "Algeria",
+    "currency": "DZD",
+    "cities": ["Alger", "Batna", "Constantine", "Medea", "Mostaganem", "Oran", "Saida", "Setif", "Tiaret", "Tizi Ouzou", "Tlemcen", "Bejaia", "Biskra", "Blida", "Bouira", "Djelfa", "Guelma", "Jijel", "Laghouat", "Mascara", "M'sila", "Oum el Bouaghi", "Sidi Bel Abbes", "Skikda", "Tebessa", "Adrar", "Ain Defla", "Ain Temouchent", "Annaba", "Bechar", "Bordj Bou Arreridj", "Boumerdes", "Chlef", "El Bayadh", "El Oued", "El Tarf", "Ghardaia", "Illizi", "Khenchela", "Mila", "Naama", "Ouargla", "Relizane", "Souk Ahras", "Tamanghasset", "Tindouf", "Tipaza", "Tissemsilt"]
+  },
+  {
+    "country_name": "American Samoa",
+    "currency": "USD",
+    "cities": []
+  },
+  {
+    "country_name": "Andorra",
+    "currency": "EUR",
+    "cities": ["Encamp", "La Massana", "Ordino", "Sant Julia de Loria", "Andorra la Vella", "Escaldes-Engordany"]
+  },
+  {
+    "country_name": "Angola",
+    "currency": "AOA",
+    "cities": ["Benguela", "Bie", "Cabinda", "Cuando Cubango", "Cuanza Norte", "Cuanza Sul", "Cunene", "Huambo", "Huila", "Malanje", "Namibe", "Moxico", "Uige", "Zaire", "Lunda Norte", "Lunda Sul", "Bengo", "Luanda"]
+  },
+  {
+    "country_name": "Anguilla",
+    "currency": "XCD",
+    "cities": []
+  },
+  {
+    "country_name": "Antarctica",
+    "currency": "",
+    "cities": []
+  },
+  {
+    "country_name": "Antigua and Barbuda",
+    "currency": "XCD",
+    "cities": ["Barbuda", "Saint George", "Saint John", "Saint Mary", "Saint Paul", "Saint Peter", "Saint Philip", "Redonda"]
+  },
+  {
+    "country_name": "Argentina",
+    "currency": "ARS",
+    "cities": ["Buenos Aires", "Catamarca", "Chaco", "Chubut", "Cordoba", "Corrientes", "Distrito Federal", "Entre Rios", "Formosa", "Jujuy", "La Pampa", "La Rioja", "Mendoza", "Misiones", "Neuquen", "Rio Negro", "Salta", "San Juan", "San Luis", "Santa Cruz", "Santa Fe", "Santiago del Estero", "Tierra del Fuego", "Tucuman"]
+  },
+  {
+    "country_name": "Armenia",
+    "currency": "AMD",
+    "cities": ["Aragatsotn", "Ararat", "Armavir", "Geghark'unik'", "Kotayk'", "Lorri", "Shirak", "Syunik'", "Tavush", "Vayots' Dzor", "Yerevan"]
+  },
+  {
+    "country_name": "Aruba",
+    "currency": "AWG",
+    "cities": []
+  },
+  {
+    "country_name": "Australia",
+    "currency": "AUD",
+    "cities": ["Australian Capital Territory", "New South Wales", "Northern Territory", "Queensland", "South Australia", "Tasmania", "Victoria", "Western Australia"]
+  },
+  {
+    "country_name": "Austria",
+    "currency": "EUR",
+    "cities": ["Burgenland", "Karnten", "Niederosterreich", "Oberosterreich", "Salzburg", "Steiermark", "Tirol", "Vorarlberg", "Wien"]
+  },
+  {
+    "country_name": "Azerbaijan",
+    "currency": "AZN",
+    "cities": ["Abseron", "Agcabadi", "Agdam", "Agdas", "Agstafa", "Agsu", "Ali Bayramli", "Astara", "Baki", "Balakan", "Barda", "Beylaqan", "Bilasuvar", "Cabrayil", "Calilabad", "Daskasan", "Davaci", "Fuzuli", "Gadabay", "Ganca", "Goranboy", "Goycay", "Haciqabul", "Imisli", "Ismayilli", "Kalbacar", "Kurdamir", "Lacin", "Lankaran", "Lankaran", "Lerik", "Masalli", "Mingacevir", "Naftalan", "Naxcivan", "Neftcala", "Oguz", "Qabala", "Qax", "Qazax", "Qobustan", "Quba", "Qubadli", "Qusar", "Saatli", "Sabirabad", "Saki", "Saki", "Salyan", "Samaxi", "Samkir", "Samux", "Siyazan", "Sumqayit", "Susa", "Susa", "Tartar", "Tovuz", "Ucar", "Xacmaz", "Xankandi", "Xanlar", "Xizi", "Xocali", "Xocavand", "Yardimli", "Yevlax", "Yevlax", "Zangilan", "Zaqatala", "Zardab"]
+  },
+  {
+    "country_name": "Bahamas",
+    "currency": "BSD",
+    "cities": ["Bimini", "Cat Island", "Exuma", "Inagua", "Long Island", "Mayaguana", "Ragged Island", "Harbour Island", "New Providence", "Acklins and Crooked Islands", "Freeport", "Fresh Creek", "Governor's Harbour", "Green Turtle Cay", "High Rock", "Kemps Bay", "Marsh Harbour", "Nichollstown and Berry Islands", "Rock Sound", "Sandy Point", "San Salvador and Rum Cay"]
+  },
+  {
+    "country_name": "Bahrain",
+    "currency": "BHD",
+    "cities": ["Al Hadd", "Al Manamah", "Jidd Hafs", "Sitrah", "Al Mintaqah al Gharbiyah", "Mintaqat Juzur Hawar", "Al Mintaqah ash Shamaliyah", "Al Mintaqah al Wusta", "Madinat", "Ar Rifa", "Madinat Hamad", "Al Muharraq", "Al Asimah", "Al Janubiyah", "Ash Shamaliyah", "Al Wusta"]
+  },
+  {
+    "country_name": "Bangladesh",
+    "currency": "BDT",
+    "cities": ["Dhaka", "Khulna", "Rajshahi", "Chittagong", "Barisal", "Sylhet", "Rangpur"]
+  },
+  {
+    "country_name": "Barbados",
+    "currency": "BBD",
+    "cities": ["Christ Church", "Saint Andrew", "Saint George", "Saint James", "Saint John", "Saint Joseph", "Saint Lucy", "Saint Michael", "Saint Peter", "Saint Philip", "Saint Thomas"]
+  },
+  {
+    "country_name": "Belarus",
+    "currency": "BYN",
+    "cities": ["Brestskaya Voblasts'", "Homyel'skaya Voblasts'", "Hrodzyenskaya Voblasts'", "Minsk", "Minskaya Voblasts'", "Mahilyowskaya Voblasts'", "Vitsyebskaya Voblasts'"]
+  },
+  {
+    "country_name": "Belgium",
+    "currency": "EUR",
+    "cities": ["Antwerpen", "Hainaut", "Liege", "Limburg", "Luxembourg", "Namur", "Oost-Vlaanderen", "West-Vlaanderen", "Brabant Wallon", "Brussels Hoofdstedelijk Gewest", "Vlaams-Brabant", "Flanders", "Wallonia"]
+  },
+  {
+    "country_name": "Belize",
+    "currency": "BZD",
+    "cities": ["Belize", "Cayo", "Corozal", "Orange Walk", "Stann Creek", "Toledo"]
+  },
+  {
+    "country_name": "Benin",
+    "currency": "XOF",
+    "cities": ["Alibori", "Atakora", "Atlanyique", "Borgou", "Collines", "Kouffo", "Donga", "Littoral", "Mono", "Oueme", "Plateau", "Zou"]
+  },
+  {
+    "country_name": "Bermuda",
+    "currency": "BMD",
+    "cities": ["Devonshire", "Hamilton", "Hamilton", "Paget", "Pembroke", "Saint George", "Saint George's", "Sandys", "Smiths", "Southampton", "Warwick"]
+  },
+  {
+    "country_name": "Bhutan",
+    "currency": "BTN",
+    "cities": ["Bumthang", "Chhukha", "Chirang", "Daga", "Geylegphug", "Ha", "Lhuntshi", "Mongar", "Paro", "Pemagatsel", "Punakha", "Samchi", "Samdrup", "Shemgang", "Tashigang", "Thimphu", "Tongsa", "Wangdi Phodrang"]
+  },
+  {
+    "country_name": "Bolivia (Plurinational State of)",
+    "currency": "BOB",
+    "cities": ["Chuquisaca", "Cochabamba", "El Beni", "La Paz", "Oruro", "Pando", "Potosi", "Santa Cruz", "Tarija"]
+  },
+  {
+    "country_name": "Bonaire, Sint Eustatius and Saba",
+    "currency": "USD",
+    "cities": []
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "currency": "BAM",
+    "cities": ["Federation of Bosnia and Herzegovina", "Brcko District", "Republika Srpska"]
+  },
+  {
+    "country_name": "Botswana",
+    "currency": "BWP",
+    "cities": ["Central", "Ghanzi", "Kgalagadi", "Kgatleng", "Kweneng", "North-East", "South-East", "Southern", "North-West"]
+  },
+  {
+    "country_name": "Bouvet Island",
+    "currency": "NOK",
+    "cities": []
+  },
+  {
+    "country_name": "Brazil",
+    "currency": "BRL",
+    "cities": ["Acre", "Alagoas", "Amapa", "Amazonas", "Bahia", "Ceara", "Distrito Federal", "Espirito Santo", "Mato Grosso do Sul", "Maranhao", "Mato Grosso", "Minas Gerais", "Para", "Paraiba", "Parana", "Piaui", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rondonia", "Roraima", "Santa Catarina", "Sao Paulo", "Sergipe", "Goias", "Pernambuco", "Tocantins"]
+  },
+  {
+    "country_name": "British Indian Ocean Territory",
+    "currency": "USD",
+    "cities": []
+  },
+  {
+    "country_name": "United States Minor Outlying Islands",
+    "currency": "GBP",
+    "cities": []
+  },
+  {
+    "country_name": "Virgin Islands (British)",
+    "currency": "USD",
+    "cities": []
+  },
+  {
+    "country_name": "Virgin Islands (U.S.)",
+    "currency": "USD",
+    "cities": []
+  },
+  {
+    "country_name": "Brunei Darussalam",
+    "currency": "BND",
+    "cities": ["Alibori", "Belait", "Brunei and Muara", "Temburong", "Collines", "Kouffo", "Donga", "Littoral", "Tutong", "Oueme", "Plateau", "Zou"]
+  },
+  {
+    "country_name": "Bulgaria",
+    "currency": "BGN",
+    "cities": ["Mikhaylovgrad", "Blagoevgrad", "Burgas", "Dobrich", "Gabrovo", "Grad Sofiya", "Khaskovo", "Kurdzhali", "Kyustendil", "Lovech", "Montana", "Pazardzhik", "Pernik", "Pleven", "Plovdiv", "Razgrad", "Ruse", "Shumen", "Silistra", "Sliven", "Smolyan", "Sofiya", "Stara Zagora", "Turgovishte", "Varna", "Veliko Turnovo", "Vidin", "Vratsa", "Yambol"]
+  },
+  {
+    "country_name": "Burkina Faso",
+    "currency": "XOF",
+    "cities": ["Bam", "Boulkiemde", "Ganzourgou", "Gnagna", "Kouritenga", "Oudalan", "Passore", "Sanguie", "Soum", "Tapoa", "Zoundweogo", "Bale", "Banwa", "Bazega", "Bougouriba", "Boulgou", "Gourma", "Houet", "Ioba", "Kadiogo", "Kenedougou", "Komoe", "Komondjari", "Kompienga", "Kossi", "Koulpelogo", "Kourweogo", "Leraba", "Loroum", "Mouhoun", "Namentenga", "Naouri", "Nayala", "Noumbiel", "Oubritenga", "Poni", "Sanmatenga", "Seno", "Sissili", "Sourou", "Tuy", "Yagha", "Yatenga", "Ziro", "Zondoma"]
+  },
+  {
+    "country_name": "Burundi",
+    "currency": "BIF",
+    "cities": ["Bujumbura", "Bubanza", "Bururi", "Cankuzo", "Cibitoke", "Gitega", "Karuzi", "Kayanza", "Kirundo", "Makamba", "Muyinga", "Ngozi", "Rutana", "Ruyigi", "Muramvya", "Mwaro"]
+  },
+  {
+    "country_name": "Cambodia",
+    "currency": "KHR",
+    "cities": ["Batdambang", "Kampong Cham", "Kampong Chhnang", "Kampong Speu", "Kampong Thum", "Kampot", "Kandal", "Koh Kong", "Kracheh", "Mondulkiri", "Phnum Penh", "Pursat", "Preah Vihear", "Prey Veng", "Ratanakiri Kiri", "Siem Reap", "Stung Treng", "Svay Rieng", "Takeo", "Phnum Penh", "Ratanakiri", "Banteay Meanchey", "Preah Seihanu", "Batdambang", "Pailin"]
+  },
+  {
+    "country_name": "Cameroon",
+    "currency": "XAF",
+    "cities": ["Est", "Littoral", "Nord-Ouest", "Ouest", "Sud-Ouest", "Adamaoua", "Centre", "Extreme-Nord", "Nord", "Sud"]
+  },
+  {
+    "country_name": "Canada",
+    "currency": "CAD",
+    "cities": ["Alberta", "British Columbia", "Manitoba", "New Brunswick", "Newfoundland", "Nova Scotia", "Northwest Territories", "Nunavut", "Ontario", "Prince Edward Island", "Quebec", "Saskatchewan", "Yukon Territory"]
+  },
+  {
+    "country_name": "Cabo Verde",
+    "currency": "CVE",
+    "cities": ["Boa Vista", "Brava", "Maio", "Paul", "Ribeira Grande", "Sal", "Sao Nicolau", "Sao Vicente", "Mosteiros", "Praia", "Santa Catarina", "Santa Cruz", "Sao Domingos", "Sao Filipe", "Sao Miguel", "Tarrafal"]
+  },
+  {
+    "country_name": "Cayman Islands",
+    "currency": "KYD",
+    "cities": ["Creek", "Eastern", "Midland", "South Town", "Spot Bay", "Stake Bay", "West End", "Western"]
+  },
+  {
+    "country_name": "Central African Republic",
+    "currency": "XAF",
+    "cities": ["Bamingui-Bangoran", "Basse-Kotto", "Haute-Kotto", "Mambere-Kadei", "Haut-Mbomou", "Kemo", "Lobaye", "Mbomou", "Nana-Mambere", "Ouaka", "Ouham", "Ouham-Pende", "Cuvette-Ouest", "Nana-Grebizi", "Sangha-Mbaere", "Ombella-Mpoko", "Bangui"]
+  },
+  {
+    "country_name": "Chad",
+    "currency": "XAF",
+    "cities": ["Batha", "Biltine", "Borkou-Ennedi-Tibesti", "Chari-Baguirmi", "Guera", "Kanem", "Lac", "Logone Occidental", "Logone Oriental", "Mayo-Kebbi", "Moyen-Chari", "Ouaddai", "Salamat", "Tandjile"]
+  },
+  {
+    "country_name": "Chile",
+    "currency": "CLP",
+    "cities": ["Valparaiso", "Aisen del General Carlos Ibanez del Campo", "Antofagasta", "Araucania", "Atacama", "Bio-Bio", "Coquimbo", "Libertador General Bernardo O'Higgins", "Los Lagos", "Magallanes y de la Antartica Chilena", "Maule", "Region Metropolitana", "Tarapaca", "Los Lagos", "Tarapaca", "Arica y Parinacota", "Los Rios"]
+  },
+  {
+    "country_name": "China",
+    "currency": "CNY",
+    "cities": ["Anhui", "Zhejiang", "Jiangxi", "Jiangsu", "Jilin", "Qinghai", "Fujian", "Heilongjiang", "Henan", "Hebei", "Hunan", "Hubei", "Xinjiang", "Xizang", "Gansu", "Guangxi", "Guizhou", "Liaoning", "Nei Mongol", "Ningxia", "Beijing", "Shanghai", "Shanxi", "Shandong", "Shaanxi", "Tianjin", "Yunnan", "Guangdong", "Hainan", "Sichuan", "Chongqing"]
+  },
+  {
+    "country_name": "Christmas Island",
+    "currency": "AUD",
+    "cities": []
+  },
+  {
+    "country_name": "Cocos (Keeling) Islands",
+    "currency": "AUD",
+    "cities": []
+  },
+  {
+    "country_name": "Colombia",
+    "currency": "COP",
+    "cities": ["Amazonas", "Antioquia", "Arauca", "Atlantico", "Caqueta", "Cauca", "Cesar", "Choco", "Cordoba", "Guaviare", "Guainia", "Huila", "La Guajira", "Meta", "Narino", "Norte de Santander", "Putumayo", "Quindio", "Risaralda", "San Andres y Providencia", "Santander", "Sucre", "Tolima", "Valle del Cauca", "Vaupes", "Vichada", "Casanare", "Cundinamarca", "Distrito Especial", "Bolivar", "Boyaca", "Caldas", "Magdalena"]
+  },
+  {
+    "country_name": "Comoros",
+    "currency": "KMF",
+    "cities": ["Anjouan", "Grande Comore", "Moheli"]
+  },
+  {
+    "country_name": "Congo",
+    "currency": "XAF",
+    "cities": ["Bouenza", "Kouilou", "Lekoumou", "Likouala", "Niari", "Plateaux", "Sangha", "Pool", "Brazzaville", "Cuvette", "Cuvette-Ouest"]
+  },
+  {
+    "country_name": "Congo (Democratic Republic of the)",
+    "currency": "CDF",
+    "cities": ["Bandundu", "Equateur", "Kasai-Oriental", "Katanga", "Kinshasa", "Bas-Congo", "Orientale", "Maniema", "Nord-Kivu", "Sud-Kivu"]
+  },
+  {
+    "country_name": "Cook Islands",
+    "currency": "NZD",
+    "cities": []
+  },
+  {
+    "country_name": "Costa Rica",
+    "currency": "CRC",
+    "cities": ["Alajuela", "Cartago", "Guanacaste", "Heredia", "Limon", "Puntarenas", "San Jose"]
+  },
+  {
+    "country_name": "Croatia",
+    "currency": "HRK",
+    "cities": ["Bjelovarsko-Bilogorska", "Brodsko-Posavska", "Dubrovacko-Neretvanska", "Istarska", "Karlovacka", "Koprivnicko-Krizevacka", "Krapinsko-Zagorska", "Licko-Senjska", "Medimurska", "Osjecko-Baranjska", "Pozesko-Slavonska", "Primorsko-Goranska", "Sibensko-Kninska", "Sisacko-Moslavacka", "Splitsko-Dalmatinska", "Varazdinska", "Viroviticko-Podravska", "Vukovarsko-Srijemska", "Zadarska", "Zagrebacka", "Grad Zagreb"]
+  },
+  {
+    "country_name": "Cuba",
+    "currency": "CUC",
+    "cities": ["Pinar del Rio", "Ciudad de la Habana", "Matanzas", "Isla de la Juventud", "Camaguey", "Ciego de Avila", "Cienfuegos", "Granma", "Guantanamo", "La Habana", "Holguin", "Las Tunas", "Sancti Spiritus", "Santiago de Cuba", "Villa Clara"]
+  },
+  {
+    "country_name": "Curaçao",
+    "currency": "ANG",
+    "cities": []
+  },
+  {
+    "country_name": "Cyprus",
+    "currency": "EUR",
+    "cities": ["Famagusta", "Kyrenia", "Larnaca", "Nicosia", "Limassol", "Paphos"]
+  },
+  {
+    "country_name": "Czech Republic",
+    "currency": "CZK",
+    "cities": ["Hlavni mesto Praha", "Jihomoravsky kraj", "Jihocesky kraj", "Vysocina", "Karlovarsky kraj", "Kralovehradecky kraj", "Liberecky kraj", "Olomoucky kraj", "Moravskoslezsky kraj", "Pardubicky kraj", "Plzensky kraj", "Stredocesky kraj", "Ustecky kraj", "Zlinsky kraj"]
+  },
+  {
+    "country_name": "Denmark",
+    "currency": "DKK",
+    "cities": ["Hovedstaden", "Midtjylland", "Nordjylland", "Sjelland", "Syddanmark"]
+  },
+  {
+    "country_name": "Djibouti",
+    "currency": "DJF",
+    "cities": ["Ali Sabieh", "Obock", "Tadjoura", "Dikhil", "Djibouti", "Arta"]
+  },
+  {
+    "country_name": "Dominica",
+    "currency": "XCD",
+    "cities": ["Saint Andrew", "Saint David", "Saint George", "Saint John", "Saint Joseph", "Saint Luke", "Saint Mark", "Saint Patrick", "Saint Paul", "Saint Peter"]
+  },
+  {
+    "country_name": "Dominican Republic",
+    "currency": "DOP",
+    "cities": ["Azua", "Baoruco", "Barahona", "Dajabon", "Distrito Nacional", "Duarte", "Espaillat", "Independencia", "La Altagracia", "Elias Pina", "La Romana", "Maria Trinidad Sanchez", "Monte Cristi", "Pedernales", "Peravia", "Puerto Plata", "Salcedo", "Samana", "Sanchez Ramirez", "San Juan", "San Pedro De Macoris", "Santiago", "Santiago Rodriguez", "Valverde", "El Seibo", "Hato Mayor", "La Vega", "Monsenor Nouel", "Monte Plata", "San Cristobal", "Distrito Nacional", "Peravia", "San Jose de Ocoa", "Santo Domingo"]
+  },
+  {
+    "country_name": "Ecuador",
+    "currency": "USD",
+    "cities": ["Galapagos", "Azuay", "Bolivar", "Canar", "Carchi", "Chimborazo", "Cotopaxi", "El Oro", "Esmeraldas", "Guayas", "Imbabura", "Loja", "Los Rios", "Manabi", "Morona-Santiago", "Pastaza", "Pichincha", "Tungurahua", "Zamora-Chinchipe", "Sucumbios", "Napo", "Orellana"]
+  },
+  {
+    "country_name": "Egypt",
+    "currency": "EGP",
+    "cities": ["Ad Daqahliyah", "Al Bahr al Ahmar", "Al Buhayrah", "Al Fayyum", "Al Gharbiyah", "Al Iskandariyah", "Al Isma'iliyah", "Al Jizah", "Al Minufiyah", "Al Minya", "Al Qahirah", "Al Qalyubiyah", "Al Wadi al Jadid", "Ash Sharqiyah", "As Suways", "Aswan", "Asyut", "Bani Suwayf", "Bur Sa'id", "Dumyat", "Kafr ash Shaykh", "Matruh", "Qina", "Suhaj", "Janub Sina'", "Shamal Sina'", "Al Uqsur"]
+  },
+  {
+    "country_name": "El Salvador",
+    "currency": "USD",
+    "cities": ["Ahuachapan", "Cabanas", "Chalatenango", "Cuscatlan", "La Libertad", "La Paz", "La Union", "Morazan", "San Miguel", "San Salvador", "Santa Ana", "San Vicente", "Sonsonate", "Usulutan"]
+  },
+  {
+    "country_name": "Equatorial Guinea",
+    "currency": "XAF",
+    "cities": ["Annobon", "Bioko Norte", "Bioko Sur", "Centro Sur", "Kie-Ntem", "Litoral", "Wele-Nzas"]
+  },
+  {
+    "country_name": "Eritrea",
+    "currency": "ERN",
+    "cities": ["Anseba", "Debub", "Debubawi K'eyih Bahri", "Gash Barka", "Ma'akel", "Semenawi K'eyih Bahri"]
+  },
+  {
+    "country_name": "Estonia",
+    "currency": "EUR",
+    "cities": ["Harjumaa", "Hiiumaa", "Ida-Virumaa", "Jarvamaa", "Jogevamaa", "Kohtla-Jarve", "Laanemaa", "Laane-Virumaa", "Narva", "Parnu", "Parnumaa", "Polvamaa", "Raplamaa", "Saaremaa", "Sillamae", "Tallinn", "Tartu", "Tartumaa", "Valgamaa", "Viljandimaa", "Vorumaa"]
+  },
+  {
+    "country_name": "Ethiopia",
+    "currency": "ETB",
+    "cities": ["Adis Abeba", "Afar", "Amara", "Binshangul Gumuz", "Dire Dawa", "Gambela Hizboch", "Hareri Hizb", "Oromiya", "Sumale", "Tigray", "YeDebub Biheroch Bihereseboch na Hizboch"]
+  },
+  {
+    "country_name": "Falkland Islands (Malvinas)",
+    "currency": "FKP",
+    "cities": []
+  },
+  {
+    "country_name": "Faroe Islands",
+    "currency": "DKK",
+    "cities": []
+  },
+  {
+    "country_name": "Fiji",
+    "currency": "FJD",
+    "cities": ["Central", "Eastern", "Northern", "Rotuma", "Western"]
+  },
+  {
+    "country_name": "Finland",
+    "currency": "EUR",
+    "cities": ["Aland", "Lapland", "Oulu", "Southern Finland", "Eastern Finland", "Western Finland"]
+  },
+  {
+    "country_name": "France",
+    "currency": "EUR",
+    "cities": ["Aquitaine", "Auvergne", "Basse-Normandie", "Bourgogne", "Bretagne", "Centre", "Champagne-Ardenne", "Corse", "Franche-Comte", "Haute-Normandie", "Ile-de-France", "Languedoc-Roussillon", "Limousin", "Lorraine", "Midi-Pyrenees", "Nord-Pas-de-Calais", "Pays de la Loire", "Picardie", "Poitou-Charentes", "Provence-Alpes-Cote d'Azur", "Rhone-Alpes", "Alsace"]
+  },
+  {
+    "country_name": "French Guiana",
+    "currency": "EUR",
+    "cities": []
+  },
+  {
+    "country_name": "French Polynesia",
+    "currency": "XPF",
+    "cities": []
+  },
+  {
+    "country_name": "French Southern Territories",
+    "currency": "EUR",
+    "cities": []
+  },
+  {
+    "country_name": "Gabon",
+    "currency": "XAF",
+    "cities": ["Estuaire", "Haut-Ogooue", "Moyen-Ogooue", "Ngounie", "Nyanga", "Ogooue-Ivindo", "Ogooue-Lolo", "Ogooue-Maritime", "Woleu-Ntem"]
+  },
+  {
+    "country_name": "Gambia",
+    "currency": "GMD",
+    "cities": ["Banjul", "Lower River", "Central River", "Upper River", "Western", "North Bank"]
+  },
+  {
+    "country_name": "Georgia",
+    "currency": "GEL",
+    "cities": [
+      "Abashis Raioni",
+      "Abkhazia",
+      "Adigenis Raioni",
+      "Ajaria",
+      "Akhalgoris Raioni",
+      "Akhalk'alak'is Raioni",
+      "Akhalts'ikhis Raioni",
+      "Akhmetis Raioni",
+      "Ambrolauris Raioni",
+      "Aspindzis Raioni",
+      "Baghdat'is Raioni",
+      "Bolnisis Raioni",
+      "Borjomis Raioni",
+      "Chiat'ura",
+      "Ch'khorotsqus Raioni",
+      "Ch'okhatauris Raioni",
+      "Dedop'listsqaros Raioni",
+      "Dmanisis Raioni",
+      "Dushet'is Raioni",
+      "Gardabanis Raioni",
+      "Gori",
+      "Goris Raioni",
+      "Gurjaanis Raioni",
+      "Javis Raioni",
+      "K'arelis Raioni",
+      "Kaspis Raioni",
+      "Kharagaulis Raioni",
+      "Khashuris Raioni",
+      "Khobis Raioni",
+      "Khonis Raioni",
+      "K'ut'aisi",
+      "Lagodekhis Raioni",
+      "Lanch'khut'is Raioni",
+      "Lentekhis Raioni",
+      "Marneulis Raioni",
+      "Martvilis Raioni",
+      "Mestiis Raioni",
+      "Mts'khet'is Raioni",
+      "Ninotsmindis Raioni",
+      "Onis Raioni",
+      "Ozurget'is Raioni",
+      "P'ot'i",
+      "Qazbegis Raioni",
+      "Qvarlis Raioni",
+      "Rust'avi",
+      "Sach'kheris Raioni",
+      "Sagarejos Raioni",
+      "Samtrediis Raioni",
+      "Senakis Raioni",
+      "Sighnaghis Raioni",
+      "T'bilisi",
+      "T'elavis Raioni",
+      "T'erjolis Raioni",
+      "T'et'ritsqaros Raioni",
+      "T'ianet'is Raioni",
+      "Tqibuli",
+      "Ts'ageris Raioni",
+      "Tsalenjikhis Raioni",
+      "Tsalkis Raioni",
+      "Tsqaltubo",
+      "Vanis Raioni",
+      "Zestap'onis Raioni",
+      "Zugdidi",
+      "Zugdidis Raioni"
+    ]
+  },
+  {
+    "country_name": "Germany",
+    "currency": "EUR",
+    "cities": ["Baden-Wurttemberg", "Bayern", "Bremen", "Hamburg", "Hessen", "Niedersachsen", "Nordrhein-Westfalen", "Rheinland-Pfalz", "Saarland", "Schleswig-Holstein", "Brandenburg", "Mecklenburg-Vorpommern", "Sachsen", "Sachsen-Anhalt", "Thuringen", "Berlin"]
+  },
+  {
+    "country_name": "Ghana",
+    "currency": "GHS",
+    "cities": ["Greater Accra", "Ashanti", "Brong-Ahafo", "Central", "Eastern", "Northern", "Volta", "Western", "Upper East", "Upper West"]
+  },
+  {
+    "country_name": "Gibraltar",
+    "currency": "GIP",
+    "cities": []
+  },
+  {
+    "country_name": "Greece",
+    "currency": "EUR",
+    "cities": ["Evros", "Rodhopi", "Xanthi", "Drama", "Serrai", "Kilkis", "Pella", "Florina", "Kastoria", "Grevena", "Kozani", "Imathia", "Thessaloniki", "Kavala", "Khalkidhiki", "Pieria", "Ioannina", "Thesprotia", "Preveza", "Arta", "Larisa", "Trikala", "Kardhitsa", "Magnisia", "Kerkira", "Levkas", "Kefallinia", "Zakinthos", "Fthiotis", "Evritania", "Aitolia kai Akarnania", "Fokis", "Voiotia", "Evvoia", "Attiki", "Argolis", "Korinthia", "Akhaia", "Ilia", "Messinia", "Arkadhia", "Lakonia", "Khania", "Rethimni", "Iraklion", "Lasithi", "Dhodhekanisos", "Samos", "Kikladhes", "Khios", "Lesvos"]
+  },
+  {
+    "country_name": "Greenland",
+    "currency": "DKK",
+    "cities": ["Nordgronland", "Ostgronland", "Vestgronland"]
+  },
+  {
+    "country_name": "Grenada",
+    "currency": "XCD",
+    "cities": ["Saint Andrew", "Saint David", "Saint George", "Saint John", "Saint Mark", "Saint Patrick"]
+  },
+  {
+    "country_name": "Guadeloupe",
+    "currency": "EUR",
+    "cities": []
+  },
+  {
+    "country_name": "Guam",
+    "currency": "USD",
+    "cities": []
+  },
+  {
+    "country_name": "Guatemala",
+    "currency": "GTQ",
+    "cities": ["Alta Verapaz", "Baja Verapaz", "Chimaltenango", "Chiquimula", "El Progreso", "Escuintla", "Guatemala", "Huehuetenango", "Izabal", "Jalapa", "Jutiapa", "Peten", "Quetzaltenango", "Quiche", "Retalhuleu", "Sacatepequez", "San Marcos", "Santa Rosa", "Solola", "Suchitepequez", "Totonicapan", "Zacapa"]
+  },
+  {
+    "country_name": "Guernsey",
+    "currency": "GBP",
+    "cities": []
+  },
+  {
+    "country_name": "Guinea",
+    "currency": "GNF",
+    "cities": ["Beyla", "Boffa", "Boke", "Conakry", "Dabola", "Dalaba", "Dinguiraye", "Faranah", "Forecariah", "Fria", "Gaoual", "Gueckedou", "Kerouane", "Kindia", "Kissidougou", "Koundara", "Kouroussa", "Macenta", "Mali", "Mamou", "Pita", "Telimele", "Tougue", "Yomou", "Coyah", "Dubreka", "Kankan", "Koubia", "Labe", "Lelouma", "Lola", "Mandiana", "Nzerekore", "Siguiri"]
+  },
+  {
+    "country_name": "Guinea-Bissau",
+    "currency": "XOF",
+    "cities": ["Bafata", "Quinara", "Oio", "Bolama", "Cacheu", "Tombali", "Gabu", "Bissau", "Biombo"]
+  },
+  {
+    "country_name": "Guyana",
+    "currency": "GYD",
+    "cities": ["Barima-Waini", "Cuyuni-Mazaruni", "Demerara-Mahaica", "East Berbice-Corentyne", "Essequibo Islands-West Demerara", "Mahaica-Berbice", "Pomeroon-Supenaam", "Potaro-Siparuni", "Upper Demerara-Berbice", "Upper Takutu-Upper Essequibo"]
+  },
+  {
+    "country_name": "Haiti",
+    "currency": "HTG",
+    "cities": ["Nord-Ouest", "Artibonite", "Centre", "Nord", "Nord-Est", "Ouest", "Sud", "Sud-Est", "Grand' Anse", "Nippes"]
+  },
+  {
+    "country_name": "Heard Island and McDonald Islands",
+    "currency": "AUD",
+    "cities": []
+  },
+  {
+    "country_name": "Vatican City",
+    "currency": "EUR",
+    "cities": []
+  },
+  {
+    "country_name": "Honduras",
+    "currency": "HNL",
+    "cities": ["Atlantida", "Choluteca", "Colon", "Comayagua", "Copan", "Cortes", "El Paraiso", "Francisco Morazan", "Gracias a Dios", "Intibuca", "Islas de la Bahia", "La Paz", "Lempira", "Ocotepeque", "Olancho", "Santa Barbara", "Valle", "Yoro"]
+  },
+  {
+    "country_name": "Hungary",
+    "currency": "HUF",
+    "cities": ["Bacs-Kiskun", "Baranya", "Bekes", "Borsod-Abauj-Zemplen", "Budapest", "Csongrad", "Debrecen", "Fejer", "Gyor-Moson-Sopron", "Hajdu-Bihar", "Heves", "Komarom-Esztergom", "Miskolc", "Nograd", "Pecs", "Pest", "Somogy", "Szabolcs-Szatmar-Bereg", "Szeged", "Jasz-Nagykun-Szolnok", "Tolna", "Vas", "Veszprem", "Zala", "Gyor", "Bekescsaba", "Dunaujvaros", "Eger", "Hodmezovasarhely", "Kaposvar", "Kecskemet", "Nagykanizsa", "Nyiregyhaza", "Sopron", "Szekesfehervar", "Szolnok", "Szombathely", "Tatabanya", "Veszprem", "Zalaegerszeg", "Salgotarjan", "Szekszard", "Erd"]
+  },
+  {
+    "country_name": "Hong Kong",
+    "currency": "HKD",
+    "cities": []
+  },
+  {
+    "country_name": "Iceland",
+    "currency": "ISK",
+    "cities": ["Arnessysla", "Austur-Hunavatnssysla", "Austur-Skaftafellssysla", "Borgarfjardarsysla", "Eyjafjardarsysla", "Gullbringusysla", "Kjosarsysla", "Myrasysla", "Nordur-Mulasysla", "Nordur-Tingeyjarsysla", "Rangarvallasysla", "Skagafjardarsysla", "Snafellsnes- og Hnappadalssysla", "Strandasysla", "Sudur-Mulasysla", "Sudur-Tingeyjarsysla", "Vestur-Bardastrandarsysla", "Vestur-Hunavatnssysla", "Vestur-Isafjardarsysla", "Vestur-Skaftafellssysla", "Austurland", "Hofuoborgarsvaoio", "Norourland Eystra", "Norourland Vestra", "Suourland", "Suournes", "Vestfiroir", "Vesturland"]
+  },
+  {
+    "country_name": "India",
+    "currency": "INR",
+    "cities": ["Andaman and Nicobar Islands", "Andhra Pradesh", "Assam", "Chandigarh", "Dadra and Nagar Haveli", "Delhi", "Gujarat", "Haryana", "Himachal Pradesh", "Jammu and Kashmir", "Kerala", "Lakshadweep", "Maharashtra", "Manipur", "Meghalaya", "Karnataka", "Nagaland", "Orissa", "Puducherry", "Punjab", "Rajasthan", "Tamil Nadu", "Tripura", "West Bengal", "Sikkim", "Arunachal Pradesh", "Mizoram", "Daman and Diu", "Goa", "Bihar", "Madhya Pradesh", "Uttar Pradesh", "Chhattisgarh", "Jharkhand", "Uttarakhand", "Telangana"]
+  },
+  {
+    "country_name": "Indonesia",
+    "currency": "IDR",
+    "cities": ["Aceh", "Bali", "Bengkulu", "Jakarta Raya", "Jambi", "Jawa Tengah", "Jawa Timur", "Yogyakarta", "Kalimantan Barat", "Kalimantan Selatan", "Kalimantan Tengah", "Kalimantan Timur", "Lampung", "Nusa Tenggara Barat", "Nusa Tenggara Timur", "Sulawesi Tengah", "Sulawesi Tenggara", "Sumatera Barat", "Sumatera Utara", "Maluku", "Maluku Utara", "Jawa Barat", "Sulawesi Utara", "Sumatera Selatan", "Banten", "Gorontalo", "Kepulauan Bangka Belitung", "Papua", "Riau", "Sulawesi Selatan", "Irian Jaya Barat", "Kepulauan Riau", "Sulawesi Barat"]
+  },
+  {
+    "country_name": "Ivory Coast",
+    "currency": "XOF",
+    "cities": ["Agneby", "Bafing", "Bas-Sassandra", "Denguele", "Dix-Huit Montagnes", "Fromager", "Haut-Sassandra", "Lacs", "Lagunes", "Marahoue", "Moyen-Cavally", "Moyen-Comoe", "N'zi-Comoe", "Savanes", "Sud-Bandama", "Sud-Comoe", "Vallee du Bandama", "Worodougou", "Zanzan"]
+  },
+  {
+    "country_name": "Iran (Islamic Republic of)",
+    "currency": "IRR",
+    "cities": ["Azarbayjan-e Bakhtari", "Chahar Mahall va Bakhtiari", "Sistan va Baluchestan", "Kohkiluyeh va Buyer Ahmadi", "Fars", "Gilan", "Hamadan", "Ilam", "Hormozgan", "Kerman", "Bakhtaran", "Khuzestan", "Kordestan", "Mazandaran", "Semnan Province", "Markazi", "Zanjan", "Bushehr", "Lorestan", "Markazi", "Semnan", "Tehran", "Zanjan", "Esfahan", "Kerman", "Khorasan", "Yazd", "Ardabil", "East Azarbaijan", "Markazi", "Mazandaran", "Zanjan", "Golestan", "Qazvin", "Qom", "Yazd", "Khorasan-e Janubi", "Khorasan-e Razavi", "Khorasan-e Shemali", "Alborz"]
+  },
+  {
+    "country_name": "Iraq",
+    "currency": "IQD",
+    "cities": ["Al Anbar", "Al Basrah", "Al Muthanna", "Al Qadisiyah", "As Sulaymaniyah", "Babil", "Baghdad", "Dahuk", "Dhi Qar", "Diyala", "Arbil", "Karbala'", "At Ta'mim", "Maysan", "Ninawa", "Wasit", "An Najaf", "Salah ad Din"]
+  },
+  {
+    "country_name": "Ireland",
+    "currency": "EUR",
+    "cities": ["Carlow", "Cavan", "Clare", "Cork", "Donegal", "Dublin", "Galway", "Kerry", "Kildare", "Kilkenny", "Leitrim", "Laois", "Limerick", "Longford", "Louth", "Mayo", "Meath", "Monaghan", "Offaly", "Roscommon", "Sligo", "Tipperary", "Waterford", "Westmeath", "Wexford", "Wicklow"]
+  },
+  {
+    "country_name": "Isle of Man",
+    "currency": "GBP",
+    "cities": []
+  },
+  {
+    "country_name": "Israel",
+    "currency": "ILS",
+    "cities": ["HaDarom", "HaMerkaz", "HaZafon", "Hefa", "Tel Aviv", "Yerushalayim"]
+  },
+  {
+    "country_name": "Italy",
+    "currency": "EUR",
+    "cities": ["Abruzzi", "Basilicata", "Calabria", "Campania", "Emilia-Romagna", "Friuli-Venezia Giulia", "Lazio", "Liguria", "Lombardia", "Marche", "Molise", "Piemonte", "Puglia", "Sardegna", "Sicilia", "Toscana", "Trentino-Alto Adige", "Umbria", "Valle d'Aosta", "Veneto"]
+  },
+  {
+    "country_name": "Jamaica",
+    "currency": "JMD",
+    "cities": ["Clarendon", "Hanover", "Manchester", "Portland", "Saint Andrew", "Saint Ann", "Saint Catherine", "Saint Elizabeth", "Saint James", "Saint Mary", "Saint Thomas", "Trelawny", "Westmoreland", "Kingston"]
+  },
+  {
+    "country_name": "Japan",
+    "currency": "JPY",
+    "cities": ["Aichi", "Akita", "Aomori", "Chiba", "Ehime", "Fukui", "Fukuoka", "Fukushima", "Gifu", "Gumma", "Hiroshima", "Hokkaido", "Hyogo", "Ibaraki", "Ishikawa", "Iwate", "Kagawa", "Kagoshima", "Kanagawa", "Kochi", "Kumamoto", "Kyoto", "Mie", "Miyagi", "Miyazaki", "Nagano", "Nagasaki", "Nara", "Niigata", "Oita", "Okayama", "Osaka", "Saga", "Saitama", "Shiga", "Shimane", "Shizuoka", "Tochigi", "Tokushima", "Tokyo", "Tottori", "Toyama", "Wakayama", "Yamagata", "Yamaguchi", "Yamanashi", "Okinawa"]
+  },
+  {
+    "country_name": "Jersey",
+    "currency": "GBP",
+    "cities": []
+  },
+  {
+    "country_name": "Jordan",
+    "currency": "JOD",
+    "cities": ["Al Balqa'", "Al Karak", "At Tafilah", "Al Mafraq", "Amman", "Az Zaraqa", "Irbid", "Ma'an", "Ajlun", "Al Aqabah", "Jarash", "Madaba"]
+  },
+  {
+    "country_name": "Kazakhstan",
+    "currency": "KZT",
+    "cities": ["Almaty", "Almaty City", "Aqmola", "Aqtobe", "Astana", "Atyrau", "West Kazakhstan", "Bayqonyr", "Mangghystau", "South Kazakhstan", "Pavlodar", "Qaraghandy", "Qostanay", "Qyzylorda", "East Kazakhstan", "North Kazakhstan", "Zhambyl"]
+  },
+  {
+    "country_name": "Kenya",
+    "currency": "KES",
+    "cities": ["Central", "Coast", "Eastern", "Nairobi Area", "North-Eastern", "Nyanza", "Rift Valley", "Western"]
+  },
+  {
+    "country_name": "Kiribati",
+    "currency": "AUD",
+    "cities": ["Gilbert Islands", "Line Islands", "Phoenix Islands"]
+  },
+  {
+    "country_name": "Kuwait",
+    "currency": "KWD",
+    "cities": ["Al Ahmadi", "Al Kuwayt", "Al Jahra", "Al Farwaniyah", "Hawalli", "Mubarak al Kabir"]
+  },
+  {
+    "country_name": "Kyrgyzstan",
+    "currency": "KGS",
+    "cities": ["Bishkek", "Chuy", "Jalal-Abad", "Naryn", "Osh", "Talas", "Ysyk-Kol", "Osh", "Batken"]
+  },
+  {
+    "country_name": "Lao People's Democratic Republic",
+    "currency": "LAK",
+    "cities": ["Attapu", "Champasak", "Houaphan", "Khammouan", "Louang Namtha", "Oudomxai", "Phongsali", "Saravan", "Savannakhet", "Vientiane", "Xaignabouri", "Xiangkhoang", "Louangphrabang"]
+  },
+  {
+    "country_name": "Latvia",
+    "currency": "EUR",
+    "cities": ["Aizkraukles", "Aluksnes", "Balvu", "Bauskas", "Cesu", "Daugavpils", "Daugavpils", "Dobeles", "Gulbenes", "Jekabpils", "Jelgava", "Jelgavas", "Jurmala", "Kraslavas", "Kuldigas", "Liepaja", "Liepajas", "Limbazu", "Ludzas", "Madonas", "Ogres", "Preilu", "Rezekne", "Rezeknes", "Riga", "Rigas", "Saldus", "Talsu", "Tukuma", "Valkas", "Valmieras", "Ventspils", "Ventspils"]
+  },
+  {
+    "country_name": "Lebanon",
+    "currency": "LBP",
+    "cities": ["Beqaa", "Al Janub", "Liban-Nord", "Beyrouth", "Mont-Liban", "Liban-Sud", "Nabatiye", "Beqaa", "Liban-Nord", "Aakk,r", "Baalbek-Hermel"]
+  },
+  {
+    "country_name": "Lesotho",
+    "currency": "LSL",
+    "cities": ["Berea", "Butha-Buthe", "Leribe", "Mafeteng", "Maseru", "Mohales Hoek", "Mokhotlong", "Qachas Nek", "Quthing", "Thaba-Tseka"]
+  },
+  {
+    "country_name": "Liberia",
+    "currency": "LRD",
+    "cities": ["Bong", "Grand Cape Mount", "Lofa", "Maryland", "Monrovia", "Nimba", "Sino", "Grand Bassa", "Grand Cape Mount", "Maryland", "Montserrado", "Margibi", "River Cess", "Grand Gedeh", "Lofa", "Gbarpolu", "River Gee"]
+  },
+  {
+    "country_name": "Libya",
+    "currency": "LYD",
+    "cities": ["Al Aziziyah", "Al Jufrah", "Al Kufrah", "Ash Shati'", "Murzuq", "Sabha", "Tarhunah", "Tubruq", "Zlitan", "Ajdabiya", "Al Fatih", "Al Jabal al Akhdar", "Al Khums", "An Nuqat al Khams", "Awbari", "Az Zawiyah", "Banghazi", "Darnah", "Ghadamis", "Gharyan", "Misratah", "Sawfajjin", "Surt", "Tarabulus", "Yafran"]
+  },
+  {
+    "country_name": "Liechtenstein",
+    "currency": "CHF",
+    "cities": ["Balzers", "Eschen", "Gamprin", "Mauren", "Planken", "Ruggell", "Schaan", "Schellenberg", "Triesen", "Triesenberg", "Vaduz", "Gbarpolu", "River Gee"]
+  },
+  {
+    "country_name": "Lithuania",
+    "currency": "EUR",
+    "cities": ["Alytaus Apskritis", "Kauno Apskritis", "Klaipedos Apskritis", "Marijampoles Apskritis", "Panevezio Apskritis", "Siauliu Apskritis", "Taurages Apskritis", "Telsiu Apskritis", "Utenos Apskritis", "Vilniaus Apskritis"]
+  },
+  {
+    "country_name": "Luxembourg",
+    "currency": "EUR",
+    "cities": ["Diekirch", "Grevenmacher", "Luxembourg"]
+  },
+  {
+    "country_name": "Macao",
+    "currency": "MOP",
+    "cities": ["Ilhas", "Macau"]
+  },
+  {
+    "country_name": "North Macedonia",
+    "currency": "MKD",
+    "cities": [
+      "Aracinovo",
+      "Bac",
+      "Belcista",
+      "Berovo",
+      "Bistrica",
+      "Bitola",
+      "Blatec",
+      "Bogdanci",
+      "Bogomila",
+      "Bogovinje",
+      "Bosilovo",
+      "Brvenica",
+      "Cair",
+      "Capari",
+      "Caska",
+      "Cegrane",
+      "Centar",
+      "Centar Zupa",
+      "Cesinovo",
+      "Cucer-Sandevo",
+      "Debar",
+      "Delcevo",
+      "Delogozdi",
+      "Demir Hisar",
+      "Demir Kapija",
+      "Dobrusevo",
+      "Dolna Banjica",
+      "Dolneni",
+      "Dorce Petrov",
+      "Drugovo",
+      "Dzepciste",
+      "Gazi Baba",
+      "Gevgelija",
+      "Gostivar",
+      "Gradsko",
+      "Ilinden",
+      "Izvor",
+      "Jegunovce",
+      "Kamenjane",
+      "Karbinci",
+      "Karpos",
+      "Kavadarci",
+      "Kicevo",
+      "Kisela Voda",
+      "Klecevce",
+      "Kocani",
+      "Konce",
+      "Kondovo",
+      "Konopiste",
+      "Kosel",
+      "Kratovo",
+      "Kriva Palanka",
+      "Krivogastani",
+      "Krusevo",
+      "Kuklis",
+      "Kukurecani",
+      "Kumanovo",
+      "Labunista",
+      "Lipkovo",
+      "Lozovo",
+      "Lukovo",
+      "Makedonska Kamenica",
+      "Makedonski Brod",
+      "Mavrovi Anovi",
+      "Meseista",
+      "Miravci",
+      "Mogila",
+      "Murtino",
+      "Negotino",
+      "Negotino-Polosko",
+      "Novaci",
+      "Novo Selo",
+      "Oblesevo",
+      "Ohrid",
+      "Orasac",
+      "Orizari",
+      "Oslomej",
+      "Pehcevo",
+      "Petrovec",
+      "Plasnica",
+      "Podares",
+      "Prilep",
+      "Probistip",
+      "Radovis",
+      "Rankovce",
+      "Resen",
+      "Rosoman",
+      "Rostusa",
+      "Samokov",
+      "Saraj",
+      "Sipkovica",
+      "Sopiste",
+      "Sopotnica",
+      "Srbinovo",
+      "Staravina",
+      "Star Dojran",
+      "Staro Nagoricane",
+      "Stip",
+      "Struga",
+      "Strumica",
+      "Studenicani",
+      "Suto Orizari",
+      "Sveti Nikole",
+      "Tearce",
+      "Tetovo",
+      "Topolcani",
+      "Valandovo",
+      "Vasilevo",
+      "Veles",
+      "Velesta",
+      "Vevcani",
+      "Vinica",
+      "Vitoliste",
+      "Vranestica",
+      "Vrapciste",
+      "Vratnica",
+      "Vrutok",
+      "Zajas",
+      "Zelenikovo",
+      "Zelino",
+      "Zitose",
+      "Zletovo",
+      "Zrnovci",
+      "Cair",
+      "Caska",
+      "Debar",
+      "Demir Hisar",
+      "Gostivar",
+      "Jegunovce",
+      "Kavadarci",
+      "Kumanovo",
+      "Makedonski Brod",
+      "Ohrid",
+      "Prilep",
+      "Dojran",
+      "Struga",
+      "Strumica",
+      "Tetovo",
+      "Valandovo",
+      "Veles",
+      "Aerodrom"
+    ]
+  },
+  {
+    "country_name": "Madagascar",
+    "currency": "MGA",
+    "cities": ["Antsiranana", "Fianarantsoa", "Mahajanga", "Toamasina", "Antananarivo", "Toliara"]
+  },
+  {
+    "country_name": "Malawi",
+    "currency": "MWK",
+    "cities": ["Chikwawa", "Chiradzulu", "Chitipa", "Thyolo", "Dedza", "Dowa", "Karonga", "Kasungu", "Lilongwe", "Mangochi", "Mchinji", "Mzimba", "Ntcheu", "Nkhata Bay", "Nkhotakota", "Nsanje", "Ntchisi", "Rumphi", "Salima", "Zomba", "Blantyre", "Mwanza", "Balaka", "Likoma", "Machinga", "Mulanje", "Phalombe"]
+  },
+  {
+    "country_name": "Malaysia",
+    "currency": "MYR",
+    "cities": ["Johor", "Kedah", "Kelantan", "Melaka", "Negeri Sembilan", "Pahang", "Perak", "Perlis", "Pulau Pinang", "Sarawak", "Selangor", "Terengganu", "Kuala Lumpur", "Labuan", "Sabah", "Putrajaya"]
+  },
+  {
+    "country_name": "Maldives",
+    "currency": "MVR",
+    "cities": ["Seenu", "Laamu", "Alifu", "Baa", "Dhaalu", "Faafu", "Gaafu Alifu", "Gaafu Dhaalu", "Haa Alifu", "Haa Dhaalu", "Kaafu", "Lhaviyani", "Maale", "Meemu", "Gnaviyani", "Noonu", "Raa", "Shaviyani", "Thaa", "Vaavu"]
+  },
+  {
+    "country_name": "Mali",
+    "currency": "XOF",
+    "cities": ["Bamako", "Kayes", "Mopti", "Segou", "Sikasso", "Koulikoro", "Tombouctou", "Gao", "Kidal"]
+  },
+  {
+    "country_name": "Malta",
+    "currency": "EUR",
+    "cities": []
+  },
+  {
+    "country_name": "Marshall Islands",
+    "currency": "USD",
+    "cities": []
+  },
+  {
+    "country_name": "Martinique",
+    "currency": "EUR",
+    "cities": []
+  },
+  {
+    "country_name": "Mauritania",
+    "currency": "MRO",
+    "cities": ["Hodh Ech Chargui", "Hodh El Gharbi", "Assaba", "Gorgol", "Brakna", "Trarza", "Adrar", "Dakhlet Nouadhibou", "Tagant", "Guidimaka", "Tiris Zemmour", "Inchiri"]
+  },
+  {
+    "country_name": "Mauritius",
+    "currency": "MUR",
+    "cities": ["Black River", "Flacq", "Grand Port", "Moka", "Pamplemousses", "Plaines Wilhems", "Port Louis", "Riviere du Rempart", "Savanne", "Agalega Islands", "Cargados Carajos", "Rodrigues"]
+  },
+  {
+    "country_name": "Mayotte",
+    "currency": "EUR",
+    "cities": []
+  },
+  {
+    "country_name": "Mexico",
+    "currency": "MXN",
+    "cities": ["Aguascalientes", "Baja California", "Baja California Sur", "Campeche", "Chiapas", "Chihuahua", "Coahuila de Zaragoza", "Colima", "Distrito Federal", "Durango", "Guanajuato", "Guerrero", "Hidalgo", "Jalisco", "Mexico", "Michoacan de Ocampo", "Morelos", "Nayarit", "Nuevo Leon", "Oaxaca", "Puebla", "Queretaro de Arteaga", "Quintana Roo", "San Luis Potosi", "Sinaloa", "Sonora", "Tabasco", "Tamaulipas", "Tlaxcala", "Veracruz-Llave", "Yucatan", "Zacatecas"]
+  },
+  {
+    "country_name": "Micronesia (Federated States of)",
+    "currency": "USD",
+    "cities": ["Kosrae", "Pohnpei", "Chuuk", "Yap"]
+  },
+  {
+    "country_name": "Moldova (Republic of)",
+    "currency": "MDL",
+    "cities": ["Gagauzia", "Chisinau", "Stinga Nistrului", "Anenii Noi", "Balti", "Basarabeasca", "Bender", "Briceni", "Cahul", "Cantemir", "Calarasi", "Causeni", "Cimislia", "Criuleni", "Donduseni", "Drochia", "Dubasari", "Edinet", "Falesti", "Floresti", "Glodeni", "Hincesti", "Ialoveni", "Leova", "Nisporeni", "Ocnita", "Orhei", "Rezina", "Riscani", "Singerei", "Soldanesti", "Soroca", "Stefan-Voda", "Straseni", "Taraclia", "Telenesti", "Ungheni"]
+  },
+  {
+    "country_name": "Monaco",
+    "currency": "EUR",
+    "cities": ["La Condamine", "Monaco", "Monte-Carlo"]
+  },
+  {
+    "country_name": "Mongolia",
+    "currency": "MNT",
+    "cities": ["Arhangay", "Bayanhongor", "Bayan-Olgiy", "Darhan", "Dornod", "Dornogovi", "Dundgovi", "Dzavhan", "Govi-Altay", "Hentiy", "Hovd", "Hovsgol", "Omnogovi", "Ovorhangay", "Selenge", "Suhbaatar", "Tov", "Uvs", "Ulaanbaatar", "Bulgan", "Erdenet", "Darhan-Uul", "Govisumber", "Orhon"]
+  },
+  {
+    "country_name": "Montenegro",
+    "currency": "EUR",
+    "cities": []
+  },
+  {
+    "country_name": "Montserrat",
+    "currency": "XCD",
+    "cities": ["Saint Anthony", "Saint Georges", "Saint Peter"]
+  },
+  {
+    "country_name": "Morocco",
+    "currency": "MAD",
+    "cities": ["Grand Casablanca", "Fes-Boulemane", "Marrakech-Tensift-Al Haouz", "Meknes-Tafilalet", "Rabat-Sale-Zemmour-Zaer", "Chaouia-Ouardigha", "Doukkala-Abda", "Gharb-Chrarda-Beni Hssen", "Guelmim-Es Smara", "Oriental", "Souss-Massa-Dr,a", "Tadla-Azilal", "Tanger-Tetouan", "Taza-Al Hoceima-Taounate", "La,youne-Boujdour-Sakia El Hamra"]
+  },
+  {
+    "country_name": "Mozambique",
+    "currency": "MZN",
+    "cities": ["Cabo Delgado", "Gaza", "Inhambane", "Maputo", "Sofala", "Nampula", "Niassa", "Tete", "Zambezia", "Manica", "Maputo"]
+  },
+  {
+    "country_name": "Myanmar",
+    "currency": "MMK",
+    "cities": ["Rakhine State", "Chin State", "Irrawaddy", "Kachin State", "Karan State", "Kayah State", "Magwe", "Mandalay", "Pegu", "Sagaing", "Shan State", "Tenasserim", "Mon State", "Rangoon", "Yangon"]
+  },
+  {
+    "country_name": "Namibia",
+    "currency": "NAD",
+    "cities": ["Bethanien", "Caprivi Oos", "Boesmanland", "Gobabis", "Grootfontein", "Kaokoland", "Karibib", "Keetmanshoop", "Luderitz", "Maltahohe", "Okahandja", "Omaruru", "Otjiwarongo", "Outjo", "Owambo", "Rehoboth", "Swakopmund", "Tsumeb", "Karasburg", "Windhoek", "Damaraland", "Hereroland Oos", "Hereroland Wes", "Kavango", "Mariental", "Namaland", "Caprivi", "Erongo", "Hardap", "Karas", "Kunene", "Ohangwena", "Okavango", "Omaheke", "Omusati", "Oshana", "Oshikoto", "Otjozondjupa"]
+  },
+  {
+    "country_name": "Nauru",
+    "currency": "AUD",
+    "cities": ["Aiwo", "Anabar", "Anetan", "Anibare", "Baiti", "Boe", "Buada", "Denigomodu", "Ewa", "Ijuw", "Meneng", "Nibok", "Uaboe", "Yaren"]
+  },
+  {
+    "country_name": "Nepal",
+    "currency": "NPR",
+    "cities": ["Bagmati", "Bheri", "Dhawalagiri", "Gandaki", "Janakpur", "Karnali", "Kosi", "Lumbini", "Mahakali", "Mechi", "Narayani", "Rapti", "Sagarmatha", "Seti"]
+  },
+  {
+    "country_name": "Netherlands",
+    "currency": "EUR",
+    "cities": ["Drenthe", "Friesland", "Gelderland", "Groningen", "Limburg", "Noord-Brabant", "Noord-Holland", "Utrecht", "Zeeland", "Zuid-Holland", "Overijssel", "Flevoland"]
+  },
+  {
+    "country_name": "New Caledonia",
+    "currency": "XPF",
+    "cities": []
+  },
+  {
+    "country_name": "New Zealand",
+    "currency": "NZD",
+    "cities": ["Chatham Islands", "Auckland", "Bay of Plenty", "Canterbury", "Gisborne", "Hawke's Bay", "Manawatu-Wanganui", "Marlborough", "Nelson", "Northland", "Otago", "Southland", "Taranaki", "Waikato", "Wellington", "West Coast"]
+  },
+  {
+    "country_name": "Nicaragua",
+    "currency": "NIO",
+    "cities": ["Boaco", "Carazo", "Chinandega", "Chontales", "Esteli", "Granada", "Jinotega", "Leon", "Madriz", "Managua", "Masaya", "Matagalpa", "Nueva Segovia", "Rio San Juan", "Rivas", "Zelaya", "Autonoma Atlantico Norte", "Region Autonoma Atlantico Sur"]
+  },
+  {
+    "country_name": "Niger",
+    "currency": "XOF",
+    "cities": ["Agadez", "Diffa", "Dosso", "Maradi", "Niamey", "Tahoua", "Zinder", "Niamey"]
+  },
+  {
+    "country_name": "Nigeria",
+    "currency": "NGN",
+    "cities": ["Lagos", "Federal Capital Territory", "Ogun", "Akwa Ibom", "Cross River", "Kaduna", "Katsina", "Anambra", "Benue", "Borno", "Imo", "Kano", "Kwara", "Niger", "Oyo", "Adamawa", "Delta", "Edo", "Jigawa", "Kebbi", "Kogi", "Osun", "Taraba", "Yobe", "Abia", "Bauchi", "Enugu", "Ondo", "Plateau", "Rivers", "Sokoto", "Bayelsa", "Ebonyi", "Ekiti", "Gombe", "Nassarawa", "Zamfara"]
+  },
+  {
+    "country_name": "Niue",
+    "currency": "NZD",
+    "cities": []
+  },
+  {
+    "country_name": "Norfolk Island",
+    "currency": "AUD",
+    "cities": []
+  },
+  {
+    "country_name": "Korea (Democratic People's Republic of)",
+    "currency": "KPW",
+    "cities": ["Chagang-do", "Hamgyong-namdo", "Hwanghae-namdo", "Hwanghae-bukto", "Kaesong-si", "Kangwon-do", "P'yongan-bukto", "P'yongyang-si", "Yanggang-do", "Namp'o-si", "P'yongan-namdo", "Hamgyong-bukto", "Najin Sonbong-si"]
+  },
+  {
+    "country_name": "Northern Mariana Islands",
+    "currency": "USD",
+    "cities": []
+  },
+  {
+    "country_name": "Norway",
+    "currency": "NOK",
+    "cities": ["Akershus", "Aust-Agder", "Buskerud", "Finnmark", "Hedmark", "Hordaland", "More og Romsdal", "Nordland", "Nord-Trondelag", "Oppland", "Oslo", "Ostfold", "Rogaland", "Sogn og Fjordane", "Sor-Trondelag", "Telemark", "Troms", "Vest-Agder", "Vestfold"]
+  },
+  {
+    "country_name": "Oman",
+    "currency": "OMR",
+    "cities": ["Ad Dakhiliyah", "Al Batinah", "Al Wusta", "Ash Sharqiyah", "Az Zahirah", "Masqat", "Musandam", "Zufar"]
+  },
+  {
+    "country_name": "Pakistan",
+    "currency": "PKR",
+    "cities": ["Federally Administered Tribal Areas", "Balochistan", "North-West Frontier", "Punjab", "Sindh", "Azad Kashmir", "Northern Areas", "Islamabad"]
+  },
+  {
+    "country_name": "Palau",
+    "currency": "USD",
+    "cities": []
+  },
+  {
+    "country_name": "Palestine, State of",
+    "currency": "EGP",
+    "cities": ["Gaza", "West Bank"]
+  },
+  {
+    "country_name": "Panama",
+    "currency": "PAB",
+    "cities": ["Bocas del Toro", "Chiriqui", "Cocle", "Colon", "Darien", "Herrera", "Los Santos", "Panama", "San Blas", "Veraguas"]
+  },
+  {
+    "country_name": "Papua New Guinea",
+    "currency": "PGK",
+    "cities": ["Central", "Gulf", "Milne Bay", "Northern", "Southern Highlands", "Western", "North Solomons", "Chimbu", "Eastern Highlands", "East New Britain", "East Sepik", "Madang", "Manus", "Morobe", "New Ireland", "Western Highlands", "West New Britain", "Sandaun", "Enga", "National Capital"]
+  },
+  {
+    "country_name": "Paraguay",
+    "currency": "PYG",
+    "cities": ["Alto Parana", "Amambay", "Caaguazu", "Caazapa", "Central", "Concepcion", "Cordillera", "Guaira", "Itapua", "Misiones", "Neembucu", "Paraguari", "Presidente Hayes", "San Pedro", "Canindeyu", "Asuncion", "Alto Paraguay", "Boqueron"]
+  },
+  {
+    "country_name": "Peru",
+    "currency": "PEN",
+    "cities": ["Amazonas", "Ancash", "Apurimac", "Arequipa", "Ayacucho", "Cajamarca", "Callao", "Cusco", "Huancavelica", "Huanuco", "Ica", "Junin", "La Libertad", "Lambayeque", "Lima", "Loreto", "Madre de Dios", "Moquegua", "Pasco", "Piura", "Puno", "San Martin", "Tacna", "Tumbes", "Ucayali"]
+  },
+  {
+    "country_name": "Philippines",
+    "currency": "PHP",
+    "cities": [
+      "Abra",
+      "Agusan del Norte",
+      "Agusan del Sur",
+      "Aklan",
+      "Albay",
+      "Antique",
+      "Bataan",
+      "Batanes",
+      "Batangas",
+      "Benguet",
+      "Bohol",
+      "Bukidnon",
+      "Bulacan",
+      "Cagayan",
+      "Camarines Norte",
+      "Camarines Sur",
+      "Camiguin",
+      "Capiz",
+      "Catanduanes",
+      "Cavite",
+      "Cebu",
+      "Basilan",
+      "Eastern Samar",
+      "Davao",
+      "Davao del Sur",
+      "Davao Oriental",
+      "Ifugao",
+      "Ilocos Norte",
+      "Ilocos Sur",
+      "Iloilo",
+      "Isabela",
+      "Kalinga-Apayao",
+      "Laguna",
+      "Lanao del Norte",
+      "Lanao del Sur",
+      "La Union",
+      "Leyte",
+      "Marinduque",
+      "Masbate",
+      "Mindoro Occidental",
+      "Mindoro Oriental",
+      "Misamis Occidental",
+      "Misamis Oriental",
+      "Mountain",
+      "Negros Occidental",
+      "Negros Oriental",
+      "Nueva Ecija",
+      "Nueva Vizcaya",
+      "Palawan",
+      "Pampanga",
+      "Pangasinan",
+      "Rizal",
+      "Romblon",
+      "Samar",
+      "Maguindanao",
+      "North Cotabato",
+      "Sorsogon",
+      "Southern Leyte",
+      "Sulu",
+      "Surigao del Norte",
+      "Surigao del Sur",
+      "Tarlac",
+      "Zambales",
+      "Zamboanga del Norte",
+      "Zamboanga del Sur",
+      "Northern Samar",
+      "Quirino",
+      "Siquijor",
+      "South Cotabato",
+      "Sultan Kudarat",
+      "Tawitawi",
+      "Angeles",
+      "Bacolod",
+      "Bago",
+      "Baguio",
+      "Bais",
+      "Basilan City",
+      "Batangas City",
+      "Butuan",
+      "Cabanatuan",
+      "Cadiz",
+      "Cagayan de Oro",
+      "Calbayog",
+      "Caloocan",
+      "Canlaon",
+      "Cavite City",
+      "Cebu City",
+      "Cotabato",
+      "Dagupan",
+      "Danao",
+      "Dapitan",
+      "Davao City",
+      "Dipolog",
+      "Dumaguete",
+      "General Santos",
+      "Gingoog",
+      "Iligan",
+      "Iloilo City",
+      "Iriga",
+      "La Carlota",
+      "Laoag",
+      "Lapu-Lapu",
+      "Legaspi",
+      "Lipa",
+      "Lucena",
+      "Mandaue",
+      "Manila",
+      "Marawi",
+      "Naga",
+      "Olongapo",
+      "Ormoc",
+      "Oroquieta",
+      "Ozamis",
+      "Pagadian",
+      "Palayan",
+      "Pasay",
+      "Puerto Princesa",
+      "Quezon City",
+      "Roxas",
+      "San Carlos",
+      "San Carlos",
+      "San Jose",
+      "San Pablo",
+      "Silay",
+      "Surigao",
+      "Tacloban",
+      "Tagaytay",
+      "Tagbilaran",
+      "Tangub",
+      "Toledo",
+      "Trece Martires",
+      "Zamboanga",
+      "Aurora",
+      "Quezon",
+      "Negros Occidental",
+      "Biliran",
+      "Compostela Valley",
+      "Davao del Norte",
+      "Guimaras",
+      "Himamaylan",
+      "Kalinga",
+      "Las Pinas",
+      "Malabon",
+      "Malaybalay",
+      "Muntinlupa",
+      "Navotas",
+      "Paranaque",
+      "Passi",
+      "Zambales",
+      "San Jose del Monte",
+      "San Juan",
+      "Santiago",
+      "Sarangani",
+      "Sipalay",
+      "Surigao del Norte",
+      "Zamboanga"
+    ]
+  },
+  {
+    "country_name": "Pitcairn",
+    "currency": "NZD",
+    "cities": []
+  },
+  {
+    "country_name": "Poland",
+    "currency": "PLN",
+    "cities": ["Dolnoslaskie", "Kujawsko-Pomorskie", "Lodzkie", "Lubelskie", "Lubuskie", "Malopolskie", "Mazowieckie", "Opolskie", "Podkarpackie", "Podlaskie", "Pomorskie", "Slaskie", "Swietokrzyskie", "Warminsko-Mazurskie", "Wielkopolskie", "Zachodniopomorskie"]
+  },
+  {
+    "country_name": "Portugal",
+    "currency": "EUR",
+    "cities": ["Aveiro", "Beja", "Braga", "Braganca", "Castelo Branco", "Coimbra", "Evora", "Faro", "Madeira", "Guarda", "Leiria", "Lisboa", "Portalegre", "Porto", "Santarem", "Setubal", "Viana do Castelo", "Vila Real", "Viseu", "Azores"]
+  },
+  {
+    "country_name": "Puerto Rico",
+    "currency": "USD",
+    "cities": []
+  },
+  {
+    "country_name": "Qatar",
+    "currency": "QAR",
+    "cities": ["Ad Dawhah", "Al Ghuwariyah", "Al Jumaliyah", "Al Khawr", "Al Wakrah Municipality", "Ar Rayyan", "Madinat ach Shamal", "Umm Salal", "Al Wakrah", "Jariyan al Batnah", "Umm Sa'id"]
+  },
+  {
+    "country_name": "Republic of Kosovo",
+    "currency": "EUR",
+    "cities": []
+  },
+  {
+    "country_name": "Réunion",
+    "currency": "EUR",
+    "cities": []
+  },
+  {
+    "country_name": "Romania",
+    "currency": "RON",
+    "cities": ["Alba", "Arad", "Arges", "Bacau", "Bihor", "Bistrita-Nasaud", "Botosani", "Braila", "Brasov", "Bucuresti", "Buzau", "Caras-Severin", "Cluj", "Constanta", "Covasna", "Dambovita", "Dolj", "Galati", "Gorj", "Harghita", "Hunedoara", "Ialomita", "Iasi", "Maramures", "Mehedinti", "Mures", "Neamt", "Olt", "Prahova", "Salaj", "Satu Mare", "Sibiu", "Suceava", "Teleorman", "Timis", "Tulcea", "Vaslui", "Valcea", "Vrancea", "Calarasi", "Giurgiu", "Ilfov"]
+  },
+  {
+    "country_name": "Russian Federation",
+    "currency": "RUB",
+    "cities": [
+      "Adygeya, Republic of",
+      "Aginsky Buryatsky AO",
+      "Gorno-Altay",
+      "Altaisky krai",
+      "Amur",
+      "Arkhangel'sk",
+      "Astrakhan'",
+      "Bashkortostan",
+      "Belgorod",
+      "Bryansk",
+      "Buryat",
+      "Chechnya",
+      "Chelyabinsk",
+      "Chita",
+      "Chukot",
+      "Chuvashia",
+      "Dagestan",
+      "Evenk",
+      "Ingush",
+      "Irkutsk",
+      "Ivanovo",
+      "Kabardin-Balkar",
+      "Kaliningrad",
+      "Kalmyk",
+      "Kaluga",
+      "Kamchatka",
+      "Karachay-Cherkess",
+      "Karelia",
+      "Kemerovo",
+      "Khabarovsk",
+      "Khakass",
+      "Khanty-Mansiy",
+      "Kirov",
+      "Komi",
+      "Koryak",
+      "Kostroma",
+      "Krasnodar",
+      "Krasnoyarsk",
+      "Kurgan",
+      "Kursk",
+      "Leningrad",
+      "Lipetsk",
+      "Magadan",
+      "Mariy-El",
+      "Mordovia",
+      "Moskva",
+      "Moscow City",
+      "Murmansk",
+      "Nenets",
+      "Nizhegorod",
+      "Novgorod",
+      "Novosibirsk",
+      "Omsk",
+      "Orenburg",
+      "Orel",
+      "Penza",
+      "Perm'",
+      "Primor'ye",
+      "Pskov",
+      "Rostov",
+      "Ryazan'",
+      "Sakha",
+      "Sakhalin",
+      "Samara",
+      "Saint Petersburg City",
+      "Saratov",
+      "North Ossetia",
+      "Smolensk",
+      "Stavropol'",
+      "Sverdlovsk",
+      "Tambovskaya oblast",
+      "Tatarstan",
+      "Taymyr",
+      "Tomsk",
+      "Tula",
+      "Tver'",
+      "Tyumen'",
+      "Tuva",
+      "Udmurt",
+      "Ul'yanovsk",
+      "Vladimir",
+      "Volgograd",
+      "Vologda",
+      "Voronezh",
+      "Yamal-Nenets",
+      "Yaroslavl'",
+      "Yevrey",
+      "Permskiy Kray",
+      "Krasnoyarskiy Kray",
+      "Kamchatskiy Kray",
+      "Zabaykal'skiy Kray"
+    ]
+  },
+  {
+    "country_name": "Rwanda",
+    "currency": "RWF",
+    "cities": ["Butare", "Gitarama", "Kibungo", "Kigali", "Est", "Kigali", "Nord", "Ouest", "Sud"]
+  },
+  {
+    "country_name": "Saint Barthélemy",
+    "currency": "EUR",
+    "cities": []
+  },
+  {
+    "country_name": "Saint Helena, Ascension and Tristan da Cunha",
+    "currency": "SHP",
+    "cities": ["Ascension", "Saint Helena", "Tristan da Cunha"]
+  },
+  {
+    "country_name": "Saint Kitts and Nevis",
+    "currency": "XCD",
+    "cities": ["Christ Church Nichola Town", "Saint Anne Sandy Point", "Saint George Basseterre", "Saint George Gingerland", "Saint James Windward", "Saint John Capisterre", "Saint John Figtree", "Saint Mary Cayon", "Saint Paul Capisterre", "Saint Paul Charlestown", "Saint Peter Basseterre", "Saint Thomas Lowland", "Saint Thomas Middle Island", "Trinity Palmetto Point"]
+  },
+  {
+    "country_name": "Saint Lucia",
+    "currency": "XCD",
+    "cities": ["Anse-la-Raye", "Dauphin", "Castries", "Choiseul", "Dennery", "Gros-Islet", "Laborie", "Micoud", "Soufriere", "Vieux-Fort", "Praslin"]
+  },
+  {
+    "country_name": "Saint Martin (French part)",
+    "currency": "EUR",
+    "cities": []
+  },
+  {
+    "country_name": "Saint Pierre and Miquelon",
+    "currency": "EUR",
+    "cities": []
+  },
+  {
+    "country_name": "Saint Vincent and the Grenadines",
+    "currency": "XCD",
+    "cities": ["Charlotte", "Saint Andrew", "Saint David", "Saint George", "Saint Patrick", "Grenadines"]
+  },
+  {
+    "country_name": "Samoa",
+    "currency": "WST",
+    "cities": ["Aiga-i-le-Tai", "Atua", "Fa", "Gaga", "Va", "Gagaifomauga", "Palauli", "Satupa", "Tuamasaga", "Vaisigano"]
+  },
+  {
+    "country_name": "San Marino",
+    "currency": "EUR",
+    "cities": ["Acquaviva", "Chiesanuova", "Domagnano", "Faetano", "Fiorentino", "Borgo Maggiore", "San Marino", "Monte Giardino", "Serravalle"]
+  },
+  {
+    "country_name": "Sao Tome and Principe",
+    "currency": "STD",
+    "cities": ["Principe", "Sao Tome"]
+  },
+  {
+    "country_name": "Saudi Arabia",
+    "currency": "SAR",
+    "cities": ["Al Bahah", "Al Madinah", "Ash Sharqiyah", "Al Qasim", "Ar Riyad", "Asir Province", "Ha'il", "Makkah", "Al Hudud ash Shamaliyah", "Najran", "Jizan", "Tabuk", "Al Jawf"]
+  },
+  {
+    "country_name": "Senegal",
+    "currency": "XOF",
+    "cities": ["Dakar", "Diourbel", "Tambacounda", "Thies", "Fatick", "Kaolack", "Kolda", "Ziguinchor", "Louga", "Saint-Louis", "Matam"]
+  },
+  {
+    "country_name": "Serbia",
+    "currency": "RSD",
+    "cities": ["Kosovo", "Vojvodina"]
+  },
+  {
+    "country_name": "Seychelles",
+    "currency": "SCR",
+    "cities": ["Anse aux Pins", "Anse Boileau", "Anse Etoile", "Anse Louis", "Anse Royale", "Baie Lazare", "Baie Sainte Anne", "Beau Vallon", "Bel Air", "Bel Ombre", "Cascade", "Glacis", "Grand' Anse", "Grand' Anse", "La Digue", "La Riviere Anglaise", "Mont Buxton", "Mont Fleuri", "Plaisance", "Pointe La Rue", "Port Glaud", "Saint Louis", "Takamaka"]
+  },
+  {
+    "country_name": "Sierra Leone",
+    "currency": "SLL",
+    "cities": ["Eastern", "Northern", "Southern", "Western Area"]
+  },
+  {
+    "country_name": "Singapore",
+    "currency": "SGD",
+    "cities": []
+  },
+  {
+    "country_name": "Sint Maarten (Dutch part)",
+    "currency": "ANG",
+    "cities": []
+  },
+  {
+    "country_name": "Slovakia",
+    "currency": "EUR",
+    "cities": ["Banska Bystrica", "Bratislava", "Kosice", "Nitra", "Presov", "Trencin", "Trnava", "Zilina"]
+  },
+  {
+    "country_name": "Slovenia",
+    "currency": "EUR",
+    "cities": [
+      "Ajdovscina Commune",
+      "Beltinci Commune",
+      "Bled Commune",
+      "Bohinj Commune",
+      "Borovnica Commune",
+      "Bovec Commune",
+      "Brda Commune",
+      "Brezice Commune",
+      "Brezovica Commune",
+      "Celje Commune",
+      "Cerklje na Gorenjskem Commune",
+      "Cerknica Commune",
+      "Cerkno Commune",
+      "Crensovci Commune",
+      "Crna na Koroskem Commune",
+      "Crnomelj Commune",
+      "Divaca Commune",
+      "Dobrepolje Commune",
+      "Dol pri Ljubljani Commune",
+      "Dornava Commune",
+      "Dravograd Commune",
+      "Duplek Commune",
+      "Gorenja vas-Poljane Commune",
+      "Gorisnica Commune",
+      "Gornja Radgona Commune",
+      "Gornji Grad Commune",
+      "Gornji Petrovci Commune",
+      "Grosuplje Commune",
+      "Hrastnik Commune",
+      "Hrpelje-Kozina Commune",
+      "Idrija Commune",
+      "Ig Commune",
+      "Ilirska Bistrica Commune",
+      "Ivancna Gorica Commune",
+      "Izola-Isola Commune",
+      "Jursinci Commune",
+      "Kanal Commune",
+      "Kidricevo Commune",
+      "Kobarid Commune",
+      "Kobilje Commune",
+      "Komen Commune",
+      "Koper-Capodistria Urban Commune",
+      "Kozje Commune",
+      "Kranj Commune",
+      "Kranjska Gora Commune",
+      "Krsko Commune",
+      "Kungota Commune",
+      "Lasko Commune",
+      "Ljubljana Urban Commune",
+      "Ljubno Commune",
+      "Logatec Commune",
+      "Loski Potok Commune",
+      "Lukovica Commune",
+      "Medvode Commune",
+      "Menges Commune",
+      "Metlika Commune",
+      "Mezica Commune",
+      "Mislinja Commune",
+      "Moravce Commune",
+      "Moravske Toplice Commune",
+      "Mozirje Commune",
+      "Murska Sobota Urban Commune",
+      "Muta Commune",
+      "Naklo Commune",
+      "Nazarje Commune",
+      "Nova Gorica Urban Commune",
+      "Odranci Commune",
+      "Ormoz Commune",
+      "Osilnica Commune",
+      "Pesnica Commune",
+      "Pivka Commune",
+      "Podcetrtek Commune",
+      "Postojna Commune",
+      "Puconci Commune",
+      "Race-Fram Commune",
+      "Radece Commune",
+      "Radenci Commune",
+      "Radlje ob Dravi Commune",
+      "Radovljica Commune",
+      "Rogasovci Commune",
+      "Rogaska Slatina Commune",
+      "Rogatec Commune",
+      "Semic Commune",
+      "Sencur Commune",
+      "Sentilj Commune",
+      "Sentjernej Commune",
+      "Sevnica Commune",
+      "Sezana Commune",
+      "Skocjan Commune",
+      "Skofja Loka Commune",
+      "Skofljica Commune",
+      "Slovenj Gradec Urban Commune",
+      "Slovenske Konjice Commune",
+      "Smarje pri Jelsah Commune",
+      "Smartno ob Paki Commune",
+      "Sostanj Commune",
+      "Starse Commune",
+      "Store Commune",
+      "Sveti Jurij Commune",
+      "Tolmin Commune",
+      "Trbovlje Commune",
+      "Trebnje Commune",
+      "Trzic Commune",
+      "Turnisce Commune",
+      "Velenje Urban Commune",
+      "Velike Lasce Commune",
+      "Vipava Commune",
+      "Vitanje Commune",
+      "Vodice Commune",
+      "Vrhnika Commune",
+      "Vuzenica Commune",
+      "Zagorje ob Savi Commune",
+      "Zavrc Commune",
+      "Zelezniki Commune",
+      "Ziri Commune",
+      "Zrece Commune",
+      "Benedikt Commune",
+      "Bistrica ob Sotli Commune",
+      "Bloke Commune",
+      "Braslovce Commune",
+      "Cankova Commune",
+      "Cerkvenjak Commune",
+      "Destrnik Commune",
+      "Dobje Commune",
+      "Dobrna Commune",
+      "Dobrova-Horjul-Polhov Gradec Commune",
+      "Dobrovnik-Dobronak Commune",
+      "Dolenjske Toplice Commune",
+      "Domzale Commune",
+      "Grad Commune",
+      "Hajdina Commune",
+      "Hoce-Slivnica Commune",
+      "Hodos-Hodos Commune",
+      "Horjul Commune",
+      "Jesenice Commune",
+      "Jezersko Commune",
+      "Kamnik Commune",
+      "Kocevje Commune",
+      "Komenda Commune",
+      "Kostel Commune",
+      "Krizevci Commune",
+      "Kuzma Commune",
+      "Lenart Commune",
+      "Lendava-Lendva Commune",
+      "Litija Commune",
+      "Ljutomer Commune",
+      "Loska Dolina Commune",
+      "Lovrenc na Pohorju Commune",
+      "Luce Commune",
+      "Majsperk Commune",
+      "Maribor Commune",
+      "Markovci Commune",
+      "Miklavz na Dravskem polju Commune",
+      "Miren-Kostanjevica Commune",
+      "Mirna Pec Commune",
+      "Novo mesto Urban Commune",
+      "Oplotnica Commune",
+      "Piran-Pirano Commune",
+      "Podlehnik Commune",
+      "Podvelka Commune",
+      "Polzela Commune",
+      "Prebold Commune",
+      "Preddvor Commune",
+      "Prevalje Commune",
+      "Ptuj Urban Commune",
+      "Ravne na Koroskem Commune",
+      "Razkrizje Commune",
+      "Ribnica Commune",
+      "Ribnica na Pohorju Commune",
+      "Ruse Commune",
+      "Salovci Commune",
+      "Selnica ob Dravi Commune",
+      "Sempeter-Vrtojba Commune",
+      "Sentjur pri Celju Commune",
+      "Slovenska Bistrica Commune",
+      "Smartno pri Litiji Commune",
+      "Sodrazica Commune",
+      "Solcava Commune",
+      "Sveta Ana Commune",
+      "Sveti Andraz v Slovenskih goricah Commune",
+      "Tabor Commune",
+      "Tisina Commune",
+      "Trnovska vas Commune",
+      "Trzin Commune",
+      "Velika Polana Commune",
+      "Verzej Commune",
+      "Videm Commune",
+      "Vojnik Commune",
+      "Vransko Commune",
+      "Zalec Commune",
+      "Zetale Commune",
+      "Zirovnica Commune",
+      "Zuzemberk Commune",
+      "Apace Commune",
+      "Cirkulane Commune",
+      "Gorje",
+      "Kostanjevica na Krki",
+      "Log-Dragomer",
+      "Makole",
+      "Mirna",
+      "Mokronog-Trebelno",
+      "Poljcane",
+      "Recica ob Savinji",
+      "Rence-Vogrsko",
+      "Sentrupert",
+      "Smarjesk Toplice",
+      "Sredisce ob Dravi",
+      "Straza",
+      "Sveti Jurij v Slovenskih Goricah"
+    ]
+  },
+  {
+    "country_name": "Solomon Islands",
+    "currency": "SBD",
+    "cities": ["Malaita", "Guadalcanal", "Isabel", "Makira", "Temotu", "Central", "Western", "Choiseul", "Rennell and Bellona"]
+  },
+  {
+    "country_name": "Somalia",
+    "currency": "SOS",
+    "cities": ["Bakool", "Banaadir", "Bari", "Bay", "Galguduud", "Gedo", "Hiiraan", "Jubbada Dhexe", "Jubbada Hoose", "Mudug", "Nugaal", "Sanaag", "Shabeellaha Dhexe", "Shabeellaha Hoose", "Woqooyi Galbeed", "Nugaal", "Togdheer", "Woqooyi Galbeed", "Awdal", "Sool"]
+  },
+  {
+    "country_name": "South Africa",
+    "currency": "ZAR",
+    "cities": ["North-Western Province", "KwaZulu-Natal", "Free State", "Eastern Cape", "Gauteng", "Mpumalanga", "Northern Cape", "Limpopo", "North-West", "Western Cape"]
+  },
+  {
+    "country_name": "South Georgia and the South Sandwich Islands",
+    "currency": "FKP",
+    "cities": []
+  },
+  {
+    "country_name": "Korea (Republic of)",
+    "currency": "KRW",
+    "cities": ["Cheju-do", "Cholla-bukto", "Ch'ungch'ong-bukto", "Kangwon-do", "Pusan-jikhalsi", "Seoul-t'ukpyolsi", "Inch'on-jikhalsi", "Kyonggi-do", "Kyongsang-bukto", "Taegu-jikhalsi", "Cholla-namdo", "Ch'ungch'ong-namdo", "Kwangju-jikhalsi", "Taejon-jikhalsi", "Kyongsang-namdo", "Ulsan-gwangyoksi"]
+  },
+  {
+    "country_name": "Spain",
+    "currency": "EUR",
+    "cities": ["Islas Baleares", "La Rioja", "Madrid", "Murcia", "Navarra", "Asturias", "Cantabria", "Andalucia", "Aragon", "Canarias", "Castilla-La Mancha", "Castilla y Leon", "Catalonia", "Extremadura", "Galicia", "Pais Vasco", "Comunidad Valenciana"]
+  },
+  {
+    "country_name": "Sri Lanka",
+    "currency": "LKR",
+    "cities": ["Central", "North Central", "North Western", "Sabaragamuwa", "Southern", "Uva", "Western", "Eastern", "Northern"]
+  },
+  {
+    "country_name": "Sudan",
+    "currency": "SDG",
+    "cities": ["Al Wusta", "Al Istiwa'iyah", "Al Khartum", "Ash Shamaliyah", "Ash Sharqiyah", "Bahr al Ghazal", "Darfur", "Kurdufan", "Upper Nile", "Al Wahadah State", "Central Equatoria State", "Southern Darfur", "Southern Kordofan", "Kassala", "River Nile", "Northern Darfur"]
+  },
+  {
+    "country_name": "South Sudan",
+    "currency": "SSP",
+    "cities": ["Central Equatoria", "Eastern Equatoria", "Jonglei", "Lakes", "Northern Bahr el Ghazal", "Unity", "Upper Nile", "Warrap", "Western Bahr el Ghazal", "Western Equatoria"]
+  },
+  {
+    "country_name": "Suriname",
+    "currency": "SRD",
+    "cities": ["Brokopondo", "Commewijne", "Coronie", "Marowijne", "Nickerie", "Para", "Paramaribo", "Saramacca", "Sipaliwini", "Wanica"]
+  },
+  {
+    "country_name": "Svalbard and Jan Mayen",
+    "currency": "NOK",
+    "cities": []
+  },
+  {
+    "country_name": "Swaziland",
+    "currency": "SZL",
+    "cities": ["Hhohho", "Lubombo", "Manzini", "Shiselweni", "Praslin"]
+  },
+  {
+    "country_name": "Sweden",
+    "currency": "SEK",
+    "cities": ["Blekinge Lan", "Gavleborgs Lan", "Gotlands Lan", "Hallands Lan", "Jamtlands Lan", "Jonkopings Lan", "Kalmar Lan", "Dalarnas Lan", "Kronobergs Lan", "Norrbottens Lan", "Orebro Lan", "Ostergotlands Lan", "Sodermanlands Lan", "Uppsala Lan", "Varmlands Lan", "Vasterbottens Lan", "Vasternorrlands Lan", "Vastmanlands Lan", "Stockholms Lan", "Skane Lan", "Vastra Gotaland"]
+  },
+  {
+    "country_name": "Switzerland",
+    "currency": "CHF",
+    "cities": ["Aargau", "Ausser-Rhoden", "Basel-Landschaft", "Basel-Stadt", "Bern", "Fribourg", "Geneve", "Glarus", "Graubunden", "Inner-Rhoden", "Luzern", "Neuchatel", "Nidwalden", "Obwalden", "Sankt Gallen", "Schaffhausen", "Schwyz", "Solothurn", "Thurgau", "Ticino", "Uri", "Valais", "Vaud", "Zug", "Zurich", "Jura"]
+  },
+  {
+    "country_name": "Syrian Arab Republic",
+    "currency": "SYP",
+    "cities": ["Al Hasakah", "Al Ladhiqiyah", "Al Qunaytirah", "Ar Raqqah", "As Suwayda'", "Dar", "Dayr az Zawr", "Rif Dimashq", "Halab", "Hamah", "Hims", "Idlib", "Dimashq", "Tartus"]
+  },
+  {
+    "country_name": "Taiwan",
+    "currency": "TWD",
+    "cities": ["Fu-chien", "Kao-hsiung", "T'ai-pei", "T'ai-wan"]
+  },
+  {
+    "country_name": "Tajikistan",
+    "currency": "TJS",
+    "cities": ["Kuhistoni Badakhshon", "Khatlon", "Sughd", "Dushanbe", "Nohiyahoi Tobei Jumhuri"]
+  },
+  {
+    "country_name": "Tanzania, United Republic of",
+    "currency": "TZS",
+    "cities": ["Pwani", "Dodoma", "Iringa", "Kigoma", "Kilimanjaro", "Lindi", "Mara", "Mbeya", "Morogoro", "Mtwara", "Mwanza", "Pemba North", "Ruvuma", "Shinyanga", "Singida", "Tabora", "Tanga", "Kagera", "Pemba South", "Zanzibar Central", "Zanzibar North", "Dar es Salaam", "Rukwa", "Zanzibar Urban", "Arusha", "Manyara"]
+  },
+  {
+    "country_name": "Thailand",
+    "currency": "THB",
+    "cities": [
+      "Mae Hong Son",
+      "Chiang Mai",
+      "Chiang Rai",
+      "Nan",
+      "Lamphun",
+      "Lampang",
+      "Phrae",
+      "Tak",
+      "Sukhothai",
+      "Uttaradit",
+      "Kamphaeng Phet",
+      "Phitsanulok",
+      "Phichit",
+      "Phetchabun",
+      "Uthai Thani",
+      "Nakhon Sawan",
+      "Nong Khai",
+      "Loei",
+      "Sakon Nakhon",
+      "Nakhon Phanom",
+      "Khon Kaen",
+      "Kalasin",
+      "Maha Sarakham",
+      "Roi Et",
+      "Chaiyaphum",
+      "Nakhon Ratchasima",
+      "Buriram",
+      "Surin",
+      "Sisaket",
+      "Narathiwat",
+      "Chai Nat",
+      "Sing Buri",
+      "Lop Buri",
+      "Ang Thong",
+      "Phra Nakhon Si Ayutthaya",
+      "Saraburi",
+      "Nonthaburi",
+      "Pathum Thani",
+      "Krung Thep",
+      "Phayao",
+      "Samut Prakan",
+      "Nakhon Nayok",
+      "Chachoengsao",
+      "Prachin Buri",
+      "Chon Buri",
+      "Rayong",
+      "Chanthaburi",
+      "Trat",
+      "Kanchanaburi",
+      "Suphan Buri",
+      "Ratchaburi",
+      "Nakhon Pathom",
+      "Samut Songkhram",
+      "Samut Sakhon",
+      "Phetchaburi",
+      "Prachuap Khiri Khan",
+      "Chumphon",
+      "Ranong",
+      "Surat Thani",
+      "Phangnga",
+      "Phuket",
+      "Krabi",
+      "Nakhon Si Thammarat",
+      "Trang",
+      "Phatthalung",
+      "Satun",
+      "Songkhla",
+      "Pattani",
+      "Yala",
+      "Ubon Ratchathani",
+      "Yasothon",
+      "Nakhon Phanom",
+      "Prachin Buri",
+      "Ubon Ratchathani",
+      "Udon Thani",
+      "Amnat Charoen",
+      "Mukdahan",
+      "Nong Bua Lamphu",
+      "Sa Kaeo",
+      "Bueng Kan"
+    ]
+  },
+  {
+    "country_name": "Timor-Leste",
+    "currency": "USD",
+    "cities": ["Dili"]
+  },
+  {
+    "country_name": "Togo",
+    "currency": "XOF",
+    "cities": ["Centrale", "Kara", "Maritime", "Plateaux", "Savanes"]
+  },
+  {
+    "country_name": "Tokelau",
+    "currency": "NZD",
+    "cities": []
+  },
+  {
+    "country_name": "Tonga",
+    "currency": "TOP",
+    "cities": ["Ha", "Tongatapu", "Vava"]
+  },
+  {
+    "country_name": "Trinidad and Tobago",
+    "currency": "TTD",
+    "cities": ["Arima", "Caroni", "Mayaro", "Nariva", "Port-of-Spain", "Saint Andrew", "Saint David", "Saint George", "Saint Patrick", "San Fernando", "Tobago", "Victoria"]
+  },
+  {
+    "country_name": "Tunisia",
+    "currency": "TND",
+    "cities": ["Kasserine", "Kairouan", "Jendouba", "Qafsah", "El Kef", "Al Mahdia", "Al Munastir", "Bajah", "Bizerte", "Nabeul", "Siliana", "Sousse", "Ben Arous", "Madanin", "Gabes", "Kebili", "Sfax", "Sidi Bou Zid", "Tataouine", "Tozeur", "Tunis", "Zaghouan", "Aiana", "Manouba"]
+  },
+  {
+    "country_name": "Turkey",
+    "currency": "TRY",
+    "cities": ["Adiyaman", "Afyonkarahisar", "Agri", "Amasya", "Antalya", "Artvin", "Aydin", "Balikesir", "Bilecik", "Bingol", "Bitlis", "Bolu", "Burdur", "Bursa", "Canakkale", "Corum", "Denizli", "Diyarbakir", "Edirne", "Elazig", "Erzincan", "Erzurum", "Eskisehir", "Giresun", "Hatay", "Mersin", "Isparta", "Istanbul", "Izmir", "Kastamonu", "Kayseri", "Kirklareli", "Kirsehir", "Kocaeli", "Kutahya", "Malatya", "Manisa", "Kahramanmaras", "Mugla", "Mus", "Nevsehir", "Ordu", "Rize", "Sakarya", "Samsun", "Sinop", "Sivas", "Tekirdag", "Tokat", "Trabzon", "Tunceli", "Sanliurfa", "Usak", "Van", "Yozgat", "Ankara", "Gumushane", "Hakkari", "Konya", "Mardin", "Nigde", "Siirt", "Aksaray", "Batman", "Bayburt", "Karaman", "Kirikkale", "Sirnak", "Adana", "Cankiri", "Gaziantep", "Kars", "Zonguldak", "Ardahan", "Bartin", "Igdir", "Karabuk", "Kilis", "Osmaniye", "Yalova", "Duzce"]
+  },
+  {
+    "country_name": "Turkmenistan",
+    "currency": "TMT",
+    "cities": ["Ahal", "Balkan", "Dashoguz", "Lebap", "Mary"]
+  },
+  {
+    "country_name": "Turks and Caicos Islands",
+    "currency": "USD",
+    "cities": []
+  },
+  {
+    "country_name": "Tuvalu",
+    "currency": "AUD",
+    "cities": []
+  },
+  {
+    "country_name": "Uganda",
+    "currency": "UGX",
+    "cities": ["Apac", "Bundibugyo", "Bushenyi", "Gulu", "Hoima", "Jinja", "Kalangala", "Kampala", "Kamuli", "Kapchorwa", "Kasese", "Kibale", "Kiboga", "Kisoro", "Kotido", "Kumi", "Lira", "Masindi", "Mbarara", "Mubende", "Nebbi", "Ntungamo", "Pallisa", "Rakai", "Adjumani", "Bugiri", "Busia", "Katakwi", "Luwero", "Masaka", "Moyo", "Nakasongola", "Sembabule", "Tororo", "Arua", "Iganga", "Kabarole", "Kaberamaido", "Kamwenge", "Kanungu", "Kayunga", "Kitgum", "Kyenjojo", "Mayuge", "Mbale", "Moroto", "Mpigi", "Mukono", "Nakapiripirit", "Pader", "Rukungiri", "Sironko", "Soroti", "Wakiso", "Yumbe"]
+  },
+  {
+    "country_name": "Ukraine",
+    "currency": "UAH",
+    "cities": ["Cherkas'ka Oblast'", "Chernihivs'ka Oblast'", "Chernivets'ka Oblast'", "Dnipropetrovs'ka Oblast'", "Donets'ka Oblast'", "Ivano-Frankivs'ka Oblast'", "Kharkivs'ka Oblast'", "Khersons'ka Oblast'", "Khmel'nyts'ka Oblast'", "Kirovohrads'ka Oblast'", "Krym", "Kyyiv", "Kyyivs'ka Oblast'", "Luhans'ka Oblast'", "L'vivs'ka Oblast'", "Mykolayivs'ka Oblast'", "Odes'ka Oblast'", "Poltavs'ka Oblast'", "Rivnens'ka Oblast'", "Sevastopol'", "Sums'ka Oblast'", "Ternopil's'ka Oblast'", "Vinnyts'ka Oblast'", "Volyns'ka Oblast'", "Zakarpats'ka Oblast'", "Zaporiz'ka Oblast'", "Zhytomyrs'ka Oblast'"]
+  },
+  {
+    "country_name": "United Arab Emirates",
+    "currency": "AED",
+    "cities": ["Abu Dhabi", "Ajman", "Dubai", "Fujairah", "Ras Al Khaimah", "Sharjah", "Umm Al Quwain"]
+  },
+  {
+    "country_name": "United Kingdom of Great Britain and Northern Ireland",
+    "currency": "GBP",
+    "cities": [
+      "Barking and Dagenham",
+      "Barnet",
+      "Barnsley",
+      "Bath and North East Somerset",
+      "Bedfordshire",
+      "Bexley",
+      "Birmingham",
+      "Blackburn with Darwen",
+      "Blackpool",
+      "Bolton",
+      "Bournemouth",
+      "Bracknell Forest",
+      "Bradford",
+      "Brent",
+      "Brighton and Hove",
+      "Bristol, City of",
+      "Bromley",
+      "Buckinghamshire",
+      "Bury",
+      "Calderdale",
+      "Cambridgeshire",
+      "Camden",
+      "Cheshire",
+      "Cornwall",
+      "Coventry",
+      "Croydon",
+      "Cumbria",
+      "Darlington",
+      "Derby",
+      "Derbyshire",
+      "Devon",
+      "Doncaster",
+      "Dorset",
+      "Dudley",
+      "Durham",
+      "Ealing",
+      "East Riding of Yorkshire",
+      "East Sussex",
+      "Enfield",
+      "Essex",
+      "Gateshead",
+      "Gloucestershire",
+      "Greenwich",
+      "Hackney",
+      "Halton",
+      "Hammersmith and Fulham",
+      "Hampshire",
+      "Haringey",
+      "Harrow",
+      "Hartlepool",
+      "Havering",
+      "Herefordshire",
+      "Hertford",
+      "Hillingdon",
+      "Hounslow",
+      "Isle of Wight",
+      "Islington",
+      "Kensington and Chelsea",
+      "Kent",
+      "Kingston upon Hull, City of",
+      "Kingston upon Thames",
+      "Kirklees",
+      "Knowsley",
+      "Lambeth",
+      "Lancashire",
+      "Leeds",
+      "Leicester",
+      "Leicestershire",
+      "Lewisham",
+      "Lincolnshire",
+      "Liverpool",
+      "London, City of",
+      "Luton",
+      "Manchester",
+      "Medway",
+      "Merton",
+      "Middlesbrough",
+      "Milton Keynes",
+      "Newcastle upon Tyne",
+      "Newham",
+      "Norfolk",
+      "Northamptonshire",
+      "North East Lincolnshire",
+      "North Lincolnshire",
+      "North Somerset",
+      "North Tyneside",
+      "Northumberland",
+      "North Yorkshire",
+      "Nottingham",
+      "Nottinghamshire",
+      "Oldham",
+      "Oxfordshire",
+      "Peterborough",
+      "Plymouth",
+      "Poole",
+      "Portsmouth",
+      "Reading",
+      "Redbridge",
+      "Redcar and Cleveland",
+      "Richmond upon Thames",
+      "Rochdale",
+      "Rotherham",
+      "Rutland",
+      "Salford",
+      "Shropshire",
+      "Sandwell",
+      "Sefton",
+      "Sheffield",
+      "Slough",
+      "Solihull",
+      "Somerset",
+      "Southampton",
+      "Southend-on-Sea",
+      "South Gloucestershire",
+      "South Tyneside",
+      "Southwark",
+      "Staffordshire",
+      "St. Helens",
+      "Stockport",
+      "Stockton-on-Tees",
+      "Stoke-on-Trent",
+      "Suffolk",
+      "Sunderland",
+      "Surrey",
+      "Sutton",
+      "Swindon",
+      "Tameside",
+      "Telford and Wrekin",
+      "Thurrock",
+      "Torbay",
+      "Tower Hamlets",
+      "Trafford",
+      "Wakefield",
+      "Walsall",
+      "Waltham Forest",
+      "Wandsworth",
+      "Warrington",
+      "Warwickshire",
+      "West Berkshire",
+      "Westminster",
+      "West Sussex",
+      "Wigan",
+      "Wiltshire",
+      "Windsor and Maidenhead",
+      "Wirral",
+      "Wokingham",
+      "Wolverhampton",
+      "Worcestershire",
+      "York",
+      "Antrim",
+      "Ards",
+      "Armagh",
+      "Ballymena",
+      "Ballymoney",
+      "Banbridge",
+      "Belfast",
+      "Carrickfergus",
+      "Castlereagh",
+      "Coleraine",
+      "Cookstown",
+      "Craigavon",
+      "Down",
+      "Dungannon",
+      "Fermanagh",
+      "Larne",
+      "Limavady",
+      "Lisburn",
+      "Derry",
+      "Magherafelt",
+      "Moyle",
+      "Newry and Mourne",
+      "Newtownabbey",
+      "North Down",
+      "Omagh",
+      "Strabane",
+      "Aberdeen City",
+      "Aberdeenshire",
+      "Angus",
+      "Argyll and Bute",
+      "Scottish Borders, The",
+      "Clackmannanshire",
+      "Dumfries and Galloway",
+      "Dundee City",
+      "East Ayrshire",
+      "East Dunbartonshire",
+      "East Lothian",
+      "East Renfrewshire",
+      "Edinburgh, City of",
+      "Falkirk",
+      "Fife",
+      "Glasgow City",
+      "Highland",
+      "Inverclyde",
+      "Midlothian",
+      "Moray",
+      "North Ayrshire",
+      "North Lanarkshire",
+      "Orkney",
+      "Perth and Kinross",
+      "Renfrewshire",
+      "Shetland Islands",
+      "South Ayrshire",
+      "South Lanarkshire",
+      "Stirling",
+      "West Dunbartonshire",
+      "Eilean Siar",
+      "West Lothian",
+      "Isle of Anglesey",
+      "Blaenau Gwent",
+      "Bridgend",
+      "Caerphilly",
+      "Cardiff",
+      "Ceredigion",
+      "Carmarthenshire",
+      "Conwy",
+      "Denbighshire",
+      "Flintshire",
+      "Gwynedd",
+      "Merthyr Tydfil",
+      "Monmouthshire",
+      "Neath Port Talbot",
+      "Newport",
+      "Pembrokeshire",
+      "Powys",
+      "Rhondda Cynon Taff",
+      "Swansea",
+      "Torfaen",
+      "Vale of Glamorgan, The",
+      "Wrexham",
+      "Bedfordshire",
+      "Central Bedfordshire",
+      "Cheshire East",
+      "Cheshire West and Chester",
+      "Isles of Scilly"
+    ]
+  },
+  {
+    "country_name": "United States of America",
+    "currency": "USD",
+    "cities": ["Armed Forces Americas", "Armed Forces Europe, Middle East, & Canada", "Alaska", "Alabama", "Armed Forces Pacific", "Arkansas", "American Samoa", "Arizona", "California", "Colorado", "Connecticut", "District of Columbia", "Delaware", "Florida", "Federated States of Micronesia", "Georgia", "Guam", "Hawaii", "Iowa", "Idaho", "Illinois", "Indiana", "Kansas", "Kentucky", "Louisiana", "Massachusetts", "Maryland", "Maine", "Marshall Islands", "Michigan", "Minnesota", "Missouri", "Northern Mariana Islands", "Mississippi", "Montana", "North Carolina", "North Dakota", "Nebraska", "New Hampshire", "New Jersey", "New Mexico", "Nevada", "New York", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Palau", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Virginia", "Virgin Islands", "Vermont", "Washington", "Wisconsin", "West Virginia", "Wyoming"]
+  },
+  {
+    "country_name": "Uruguay",
+    "currency": "UYU",
+    "cities": ["Artigas", "Canelones", "Cerro Largo", "Colonia", "Durazno", "Flores", "Florida", "Lavalleja", "Maldonado", "Montevideo", "Paysandu", "Rio Negro", "Rivera", "Rocha", "Salto", "San Jose", "Soriano", "Tacuarembo", "Treinta y Tres"]
+  },
+  {
+    "country_name": "Uzbekistan",
+    "currency": "UZS",
+    "cities": ["Andijon", "Bukhoro", "Farghona", "Jizzakh", "Khorazm", "Namangan", "Nawoiy", "Qashqadaryo", "Qoraqalpoghiston", "Samarqand", "Sirdaryo", "Surkhondaryo", "Toshkent", "Toshkent", "Jizzax"]
+  },
+  {
+    "country_name": "Vanuatu",
+    "currency": "VUV",
+    "cities": ["Ambrym", "Aoba", "Torba", "Efate", "Epi", "Malakula", "Paama", "Pentecote", "Sanma", "Shepherd", "Tafea", "Malampa", "Penama", "Shefa"]
+  },
+  {
+    "country_name": "Venezuela (Bolivarian Republic of)",
+    "currency": "VEF",
+    "cities": ["Amazonas", "Anzoategui", "Apure", "Aragua", "Barinas", "Bolivar", "Carabobo", "Cojedes", "Delta Amacuro", "Falcon", "Guarico", "Lara", "Merida", "Miranda", "Monagas", "Nueva Esparta", "Portuguesa", "Sucre", "Tachira", "Trujillo", "Yaracuy", "Zulia", "Dependencias Federales", "Distrito Federal", "Vargas"]
+  },
+  {
+    "country_name": "Vietnam",
+    "currency": "VND",
+    "cities": ["An Giang", "Ben Tre", "Cao Bang", "Dong Thap", "Hai Phong", "Ho Chi Minh", "Kien Giang", "Lam Dong", "Long An", "Quang Ninh", "Son La", "Tay Ninh", "Thanh Hoa", "Thai Binh", "Tien Giang", "Lang Son", "Dong Nai", "Ha Noi", "Ba Ria-Vung Tau", "Binh Dinh", "Binh Thuan", "Gia Lai", "Ha Giang", "Ha Tinh", "Hoa Binh", "Khanh Hoa", "Kon Tum", "Nghe An", "Ninh Binh", "Ninh Thuan", "Phu Yen", "Quang Binh", "Quang Ngai", "Quang Tri", "Soc Trang", "Thua Thien-Hue", "Tra Vinh", "Tuyen Quang", "Vinh Long", "Yen Bai", "Bac Giang", "Bac Kan", "Bac Lieu", "Bac Ninh", "Binh Duong", "Binh Phuoc", "Ca Mau", "Da Nang", "Hai Duong", "Ha Nam", "Hung Yen", "Nam Dinh", "Phu Tho", "Quang Nam", "Thai Nguyen", "Vinh Phuc", "Can Tho", "Dac Lak", "Lai Chau", "Lao Cai", "Dak Nong", "Dien Bien", "Hau Giang"]
+  },
+  {
+    "country_name": "Wallis and Futuna",
+    "currency": "XPF",
+    "cities": []
+  },
+  {
+    "country_name": "Western Sahara",
+    "currency": "MAD",
+    "cities": []
+  },
+  {
+    "country_name": "Yemen",
+    "currency": "YER",
+    "cities": ["Abyan", "Adan", "Al Mahrah", "Hadramawt", "Shabwah", "Lahij", "Al Bayda'", "Al Hudaydah", "Al Jawf", "Al Mahwit", "Dhamar", "Hajjah", "Ibb", "Ma'rib", "Sa'dah", "San'a'", "Taizz", "Ad Dali", "Amran", "Al Bayda'", "Al Jawf", "Hajjah", "Ibb", "Lahij", "Taizz"]
+  },
+  {
+    "country_name": "Zambia",
+    "currency": "ZMW",
+    "cities": ["Western", "Central", "Eastern", "Luapula", "Northern", "North-Western", "Southern", "Copperbelt", "Lusaka"]
+  },
+  {
+    "country_name": "Zimbabwe",
+    "currency": "ZMW",
+    "cities": ["Manicaland", "Midlands", "Mashonaland Central", "Mashonaland East", "Mashonaland West", "Matabeleland North", "Matabeleland South", "Masvingo", "Bulawayo", "Harare"]
+  }
+]
